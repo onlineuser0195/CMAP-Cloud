@@ -1,0 +1,16 @@
+.form-sidebar {
+    position: sticky;
+    top: 40px;
+    height: calc(100vh - 40px);
+    overflow-y: hidden;
+    background-color: #f8f9fa;
+    padding: 1rem;
+    border-radius: 5px;
+    border: 2px solid blue;
+    overflow-y: auto;
+}
+
+.formbuilder-canvas{
+    border-radius: 5px;
+    border: 2px solid green;
+}

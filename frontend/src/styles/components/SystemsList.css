@@ -1,0 +1,64 @@
+.system-card {
+    transition: transform 0.2s, box-shadow 0.2s;
+    border: 1px solid #dee2e6;
+    border-radius: 0.5rem;
+  }
+  
+  .system-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    background-color: rgb(132, 230, 235);
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: #2c3e50;
+  }
+  
+  .card-text {
+    color: #666;
+    min-height: 80px; /* Adjust based on your content */
+  }
+
+  .card-link{
+    text-decoration: none;
+  }
+
+/* Updated greyed-out effect */
+.greyed-out-system {
+  opacity: 0.85;
+  filter: grayscale(20%) brightness(0.98);
+  transition: all 0.3s ease;
+}
+
+/* Slightly desaturate and lighten the card */
+.greyed-out-system .card-body {
+  background-color: #f9f9f9;
+}
+
+/* Make text slightly muted */
+.greyed-out-system .card-title,
+.greyed-out-system .card-text {
+  color: #828080;
+}
+
+/* Style buttons to look inactive but still clean */
+.greyed-out-system .btn {
+  background-color: #e9ecef;
+  border-color: #dee2e6;
+  color: #6c757d;
+}
+
+/* Keep the chip visible but muted */
+.greyed-out-system .chip {
+  opacity: 0.75;
+  filter: brightness(0.1);
+}
+
+/* Reduce hover effect intensity */
+.greyed-out-system:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.1);
+  background-color: #f0f0f0;
+}

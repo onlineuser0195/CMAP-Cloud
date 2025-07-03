@@ -1,0 +1,212 @@
+[
+  {
+    "_id": {
+      "$oid": "6807e24d94d435649a67879d"
+    },
+    "label": "FVS Section C Instructions",
+    "field_id": 957593,
+    "value": "Only Approver can edit this section",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6807f5144556949c48e982fa"
+    },
+    "label": "FVS Form Heading",
+    "field_id": 224166,
+    "value": "REQUEST FOR USER REGISTRATION FOR THE FOREIGN VISITS SYSTEM (FVS) / FOREIGN VISITS SYSTEM-CONFIRMATION MODULE (FVS-CM)",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6807f7844556949c48e984e0"
+    },
+    "label": "FVS Section B Instruction",
+    "field_id": 441101,
+    "value": "FVS PERMISSION: PLEASE INDICATE SYSTEM USAGE BELOW",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6807f9074556949c48e9851e"
+    },
+    "label": "FVS Section C Authorization",
+    "field_id": 171849,
+    "value": "AUTHORIZATION: I HEREBY CERTIFY THAT THE USER AND PROJECT OFFICER INFORMATION SHOWN ABOVE IS CORRECT AND THAT THE USER HAS A  BONAFIDE NEED TO USE THE INDICATED APPLICATION AND RELATED FUNCTIONS AND IS A U.S. CITIZEN.",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6807fe594556949c48e987b7"
+    },
+    "label": "FVS Section D Instructions",
+    "field_id": 623907,
+    "value": "DTSA FUNCTIONAL MANAGER SIGNATURES",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6807fef44556949c48e98805"
+    },
+    "label": "FVS Section D Administration",
+    "field_id": 499850,
+    "value": "DEFENSE TECHNOLOGY SECURITY ADMINISTRATION USE ONLY",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6807ff784556949c48e989c6"
+    },
+    "label": "FVS Section A Instructions",
+    "field_id": 981868,
+    "value": "USER INFORMATION",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68497f3d6e319643aee71e2f"
+    },
+    "label": "PRISM Requirements",
+    "field_id": 457618,
+    "value": "Fill in the ID and description for each requirement. If there are less than 5 requirements, leave the rest blank. Alternatively, you may attach a document with a list of the requirements.",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6849809d6e319643aee721bb"
+    },
+    "label": "PRISM Milestones",
+    "field_id": 164887,
+    "value": "Fill in the date and description for each planned milestone. If there are less than 5 milestones, leave the rest blank.",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684984386e319643aee7305f"
+    },
+    "label": "PRISM Req1",
+    "field_id": 832248,
+    "value": "",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684984606e319643aee73234"
+    },
+    "label": "PRISM Req2",
+    "field_id": 254721,
+    "value": "",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684984716e319643aee73243"
+    },
+    "label": "PRISM Req3",
+    "field_id": 908070,
+    "value": "",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684984826e319643aee73252"
+    },
+    "label": "PRISM Req4",
+    "field_id": 377129,
+    "value": "",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6849849f6e319643aee7344b"
+    },
+    "label": "PRISM Req5",
+    "field_id": 804122,
+    "value": "",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684984d86e319643aee7356d"
+    },
+    "label": "PRISM Req Doc",
+    "field_id": 477371,
+    "value": "Requirements List Document",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684985086e319643aee7357c"
+    },
+    "label": "PRISM pm1",
+    "field_id": 271388,
+    "value": "",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684985226e319643aee7358b"
+    },
+    "label": "PRISM pm2",
+    "field_id": 871904,
+    "value": "",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684985366e319643aee7359a"
+    },
+    "label": "PRISM pm3",
+    "field_id": 597962,
+    "value": "",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684985466e319643aee735a9"
+    },
+    "label": "PRISM pm4",
+    "field_id": 657136,
+    "value": "",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684985546e319643aee735b8"
+    },
+    "label": "PRISM pm5",
+    "field_id": 875492,
+    "value": "",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684987286e319643aee74000"
+    },
+    "label": "PRISM Resources",
+    "field_id": 885639,
+    "value": "Fill out resources needed for the project.",
+    "timestamp": {},
+    "__v": 0
+  }
+]

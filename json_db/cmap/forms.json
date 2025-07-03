@@ -1,0 +1,306 @@
+[
+  {
+    "_id": {
+      "$oid": "67d86a0d912535c3d9f8ef9c"
+    },
+    "form_id": 1,
+    "name": "Basic Form",
+    "description": "A form to collect user information during registration.",
+    "field_ids": [
+      1,
+      2,
+      5
+    ],
+    "timestamp": "2025-03-17T12:00:00Z",
+    "active": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "67d86a2a912535c3d9f8efa0"
+    },
+    "form_id": 2,
+    "name": "Feedback Form",
+    "description": "A form for gathering feedback from users about the product.",
+    "field_ids": [
+      1,
+      12,
+      10
+    ],
+    "timestamp": "2025-03-17T14:30:00Z",
+    "active": "Yes"
+  },
+  {
+    "_id": {
+      "$oid": "67d9beca5ab0d80f549123c4"
+    },
+    "form_id": 3,
+    "name": "Sample Form",
+    "description": "Form is basic and simple.",
+    "field_ids": [
+      7,
+      6,
+      10
+    ],
+    "timestamp": {},
+    "__v": 0,
+    "active": "true"
+  },
+  {
+    "_id": {
+      "$oid": "67e3143cb285b4bab875d35a"
+    },
+    "form_id": 4,
+    "name": "Test Form",
+    "description": "Testing Undergoing.",
+    "field_ids": [
+      1,
+      5
+    ],
+    "timestamp": {},
+    "__v": 0,
+    "active": "true"
+  },
+  {
+    "_id": {
+      "$oid": "67eae3ee32180559a2e9c430"
+    },
+    "form_id": 5,
+    "name": "User Registration Form (Outdated)",
+    "description": "REQUEST FOR USER REGISTRATION FOR THE FOREIGN VISITS SYSTEM (FVS) / FOREIGN VISITS SYSTEM-CONFIRMATION MODULE (FVS-CM)",
+    "field_ids": [
+      650161,
+      925625,
+      100157,
+      325501,
+      53808,
+      946686,
+      603123,
+      463674,
+      548125,
+      530515,
+      942931,
+      740140,
+      9,
+      284836,
+      539633,
+      567518,
+      403220,
+      418075,
+      191425,
+      740971,
+      884506,
+      575521,
+      494643,
+      405079,
+      811148,
+      909842,
+      891856,
+      208706,
+      689995,
+      500814,
+      837743,
+      559924,
+      0,
+      407429,
+      0,
+      742070,
+      407429,
+      0,
+      957593
+    ],
+    "active": "false",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67ec46bf72ed64f76840b1b4"
+    },
+    "form_id": 6,
+    "name": "New Form",
+    "description": "test description",
+    "field_ids": [],
+    "active": "false",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67f0108173a238f80eb26b46"
+    },
+    "form_id": 7,
+    "name": "APPENDIX I - CONTRACTOR DISCLOSURE STATEMENT",
+    "description": "SECURITY POLICY AUTOMATION NETWORK\nMEMORANDUM FOR CIO, DEFENSE TECHNOLOGY SECURITY ADMINISTRATION \n(DTSA)\nSUBJECT: Statement of Disclosure\nThis memorandum notifies you that, as a contractor, I require access to a Security Policy \nAutomation Network (SPAN) workstation to perform duties as assigned. \nI will attend an unclassified briefing on the SPAN to understand the requirement to safeguard \nand protect DoD information and property and will use the network and automated information \nsystems for official purposes only. \nI will not search, retrieve, or read proprietary information or classified information for the \npurposes of information gathering for self interests. I understand that any violation of this integrity \nstatement will be reported to DTSA Physical Security.\nI will report to the Security Officer all security violations or deviations.\nI have no unanswered questions about my responsibilities. \nI request to be registered with an account on the SPAN network. ",
+    "field_ids": [
+      439961,
+      778019,
+      335513,
+      372954,
+      278484,
+      272910
+    ],
+    "active": "false",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "67f013014146b9ac18c589d1"
+    },
+    "form_id": 8,
+    "name": "Form 1 DSP 73",
+    "description": "APPLICATION/LICENSE FOR TEMPORARY EXPORT OF UNCLASSIFIED DEFENSE ARTICLES",
+    "field_ids": [],
+    "active": "false",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68002093ceb34413c8a1803d"
+    },
+    "form_id": 9,
+    "name": "Visit Request",
+    "description": "Please fill this form to request a visit.",
+    "field_ids": [
+      1,
+      70728,
+      2,
+      986680,
+      121215,
+      581995,
+      148257,
+      734955,
+      210809
+    ],
+    "active": "true",
+    "timestamp": {},
+    "__v": 0,
+    "info": {
+      "file_path": "uploads\\form-9\\file-1745948867956.pdf"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6807f4b24556949c48e98140"
+    },
+    "form_id": 10,
+    "name": "User Registration Form",
+    "description": "REQUEST FOR USER REGISTRATION FOR THE FOREIGN VISITS SYSTEM (FVS) / FOREIGN VISITS SYSTEM-CONFIRMATION MODULE (FVS-CM)",
+    "field_ids": [
+      224166,
+      0,
+      981868,
+      650161,
+      925625,
+      810506,
+      325501,
+      53808,
+      946686,
+      357024,
+      584499,
+      399919,
+      965053,
+      942931,
+      740140,
+      487306,
+      284836,
+      774700,
+      218150,
+      0,
+      441101,
+      403220,
+      418075,
+      191425,
+      0,
+      957593,
+      171849,
+      740971,
+      709326,
+      575521,
+      124579,
+      0,
+      623907,
+      405079,
+      78608,
+      909842,
+      660828,
+      499850,
+      208706,
+      689995,
+      500814,
+      837743,
+      559924
+    ],
+    "active": "false",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684892d56e319643aee718fd"
+    },
+    "form_id": 11,
+    "name": "PRISM Project Details",
+    "description": "This form is used to document the details of a project.",
+    "info": {
+      "file_path": null
+    },
+    "field_ids": [
+      676690,
+      545450,
+      778866,
+      76181,
+      0,
+      252553,
+      958285,
+      604531,
+      364270,
+      0,
+      885639,
+      199190,
+      0,
+      457618,
+      832248,
+      346883,
+      878028,
+      254721,
+      322930,
+      198927,
+      908070,
+      556756,
+      149624,
+      377129,
+      760268,
+      239829,
+      804122,
+      557228,
+      123573,
+      477371,
+      919027,
+      0,
+      164887,
+      440917,
+      510165,
+      281533,
+      720144,
+      13753,
+      742996,
+      140828,
+      109531,
+      826872,
+      90131,
+      867118,
+      279058,
+      985249,
+      560451,
+      155304,
+      0,
+      31662,
+      913623
+    ],
+    "active": "true",
+    "timestamp": {},
+    "__v": 0
+  }
+]

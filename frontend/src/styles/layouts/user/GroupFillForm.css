@@ -1,0 +1,26 @@
+/* 1) Base: every tab gets a 4px transparent top‐border */
+.nav-tabs .nav-tab {
+    border: none;
+    border-bottom: 4px solid transparent;
+    border-radius: 0.25rem 0.25rem 0 0;
+    background-color: transparent;
+    color: blue;
+  }
+  
+  .nav-tabs .nav-tab:hover{
+   color: rgb(0, 119, 255);
+   background-color: #e9ecef;
+}
+
+
+  /* 2) Status overrides: only color the top‐border */
+  .nav-tabs .nav-tab.tab-border-success  { border-bottom-color: #198754; }
+  .nav-tabs .nav-tab.tab-border-danger   { border-bottom-color: #dc3545; }
+  .nav-tabs .nav-tab.tab-border-warning  { border-bottom-color: #ffc107; }
+  .nav-tabs .nav-tab.tab-border-primary  { border-bottom-color: #0d6efd; }
+  
+  /* 3) Active state: tweak only background, leave borders alone */
+  .nav-tabs .nav-tab.active-tab {
+    background-color: #e9ecef;  /* or whatever “darker” you like */
+  }
+  

@@ -1,0 +1,24 @@
+.back-button {
+  border: none;
+  color: #007bff;
+  font-size: 1rem;
+  display: inline-flex; /* ✨ Not flex */
+  align-items: center;
+  cursor: pointer;
+  margin-bottom: 1rem;
+  background-color: transparent;
+  padding: 0.5rem 1rem;
+  width: auto; /* ✨ Ensure it doesn't stretch */
+  position: absolute;
+  z-index: 999;
+}
+
+.back-button.fixed{
+    position: fixed;
+}
+
+
+.back-button:hover {
+  text-decoration: none;
+  color: green
+}

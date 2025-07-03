@@ -1,0 +1,32 @@
+[
+  {
+    "_id": {
+      "$oid": "6807f5624556949c48e98309"
+    },
+    "label": "Commercial Phone #",
+    "field_id": 810506,
+    "placeholder": "1234567890",
+    "pattern": "",
+    "required": true,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "6807f7304556949c48e984c1"
+    },
+    "label": "Supervisor Phone #",
+    "field_id": 774700,
+    "placeholder": "1234567890",
+    "pattern": "",
+    "required": true,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  }
+]

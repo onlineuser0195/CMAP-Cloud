@@ -1,0 +1,76 @@
+.add-users {
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Horizontally center the content */
+    justify-content: flex-start; /* Align content to the top */
+    height: 100vh; /* Make the container take the full height of the viewport */
+}
+
+h1 {
+    margin-bottom: 20px; /* Add space below the heading */
+}
+
+.add-button {
+    padding: 8px 12px; /* Reduced padding for a smaller button */
+    font-size: 14px; /* Slightly smaller font size */
+    cursor: pointer;
+    margin: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 150px;
+}
+
+.admin-form-container {
+    margin-top: 20px;
+    width: 100%;
+    max-width: 500px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.add-user-form {
+    display: flex;
+    flex-direction: column; /* Stack each field vertically */
+    align-items: center; /* Horizontally center fields */
+}
+
+.add-user-form-group {
+    display: flex; /* Use flexbox for horizontal layout */
+    align-items: center; /* Vertically align the label and input */
+    margin-bottom: 15px; /* Add space between fields */
+    width: 100%;
+}
+
+.add-user-form-group label {
+    margin-right: 10px; /* Add some space between label and input */
+    font-weight: bold; /* Optional: make labels bold */
+    width: 100px;
+    text-align: right; /* Align label text to the right */
+}
+
+.add-user-form-group input, select {
+    padding: 8px;
+    width: 325px;
+    border: 1px solid #ccc;
+    background-color: #f0f0f0;
+    color: black;
+    border-radius: 4px;
+}
+
+.add-user-submit-button {
+    padding: 8px 12px; /* Reduced padding for a smaller button */
+    font-size: 14px; /* Slightly smaller font size */
+    cursor: pointer;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    width: 150px;
+}

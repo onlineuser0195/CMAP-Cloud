@@ -1,0 +1,50 @@
+[
+  {
+    "_id": {
+      "$oid": "6842fdd7980fb549abb9ae34"
+    },
+    "submission_count": 1,
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "submitted_on": {},
+    "created_at": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6842fddfce3fa441133bf397"
+    },
+    "submission_count": 1,
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "submitted_on": {},
+    "created_at": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6842fe7c0ea0ec2203d9a751"
+    },
+    "submission_count": 4,
+    "submitted_by": {
+      "$oid": "67dadbb2fea3d26bd2a74614"
+    },
+    "submitted_on": {},
+    "created_at": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6842ff113bfa69c2579ca956"
+    },
+    "submission_count": 1,
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "submitted_on": {},
+    "created_at": {},
+    "__v": 0
+  }
+]

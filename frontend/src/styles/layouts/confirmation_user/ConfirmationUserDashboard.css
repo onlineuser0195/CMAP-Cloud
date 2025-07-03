@@ -1,0 +1,101 @@
+.visit-filter-btn {
+  background-color: white !important;
+  color: #1976d2 !important;
+  border: 1px solid #1976d2 !important;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+
+.visit-filter-btn:hover {
+  background-color: #1976d2 !important;
+  color: white !important;
+}
+
+.visit-filter-btn.active {
+  background-color: #1976d2 !important;
+  color: white !important;
+}
+
+.custom-textarea {
+  border: 1px solid #90caf9 !important;  /* subtle blue border */
+}
+
+.conf-div{
+  /* border-top: 1px solid black; */
+  margin-top: 110px;
+  padding-top: 5px;
+}
+
+
+/* Make the datepicker popup opaque and properly layered */
+ .opaque-datepicker {
+    background: white !important;
+    border: 1px solid #dee2e6 !important;
+    border-radius: 0.25rem !important;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+    z-index: 1050 !important; /* Higher than Bootstrap's navbar */
+}
+
+/* Fix the arrow color if needed */
+.react-datepicker__triangle {
+    display: none !important; /* Optional: hide the arrow */
+}
+
+/* Position the date range picker container relatively */
+.position-relative {
+    position: relative;
+    display: inline-block; /* Ensures the container only takes needed width */
+}
+  
+  /* Style the date range picker popup to overlap content */
+.date-range-picker-popup {
+    position: absolute;
+    top: 100%; /* Positions it right below the button */
+    right: 0; /* Aligns it to the right of the button */
+    z-index: 1000; /* Ensures it appears above other content */
+    width: 245px; /* Fixed width or min-width */
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    margin-top: 5px; /* Small gap from the button */
+}
+  
+  /* Optional: Add animation for smoother appearance */
+.date-range-picker-popup {
+    animation: fadeIn 0.2s ease-out;
+}
+
+.date-picker-close-btn {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  background: none;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+  color: #666;
+  padding: 0.25rem;
+  line-height: 1;
+}
+
+.date-picker-close-btn:hover {
+  color: #333;
+}
+  
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+}
+  
+  /* If you want a semi-transparent background for the overlay */
+/* .date-range-picker-popup {
+    background-color: rgba(255, 255, 255, 0.98);
+    backdrop-filter: blur(2px);
+} */

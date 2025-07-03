@@ -1,0 +1,434 @@
+[
+  {
+    "_id": {
+      "$oid": "67d88545912535c3d9f8efa8"
+    },
+    "label": "First Name",
+    "field_id": 1,
+    "timestamp": "2024-03-17T12:00:00Z",
+    "placeholder": "James",
+    "required": true,
+    "__v": 2,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "67d88545912535c3d9f8efa9"
+    },
+    "label": "Last Name",
+    "field_id": 2,
+    "timestamp": "2024-03-17T12:05:00Z",
+    "placeholder": "Smith",
+    "__v": 1,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "required": true
+  },
+  {
+    "_id": {
+      "$oid": "67eae41232180559a2e9c444"
+    },
+    "label": "Title(Mr. Ms. Mrs.)/Grade",
+    "field_id": 650161,
+    "timestamp": {},
+    "__v": 1,
+    "placeholder": "Mr.",
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "required": false
+  },
+  {
+    "_id": {
+      "$oid": "67eae42532180559a2e9c44c"
+    },
+    "label": "Name (Last, First, MI)",
+    "field_id": 925625,
+    "timestamp": {},
+    "__v": 2,
+    "placeholder": "Waltz, Mike, D.",
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "required": true
+  },
+  {
+    "_id": {
+      "$oid": "67eae4e732180559a2e9c469"
+    },
+    "label": "SIPR Token EDIPI# / CAC EDIPI#",
+    "field_id": 946686,
+    "timestamp": {},
+    "__v": 1,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "placeholder": "",
+    "required": false
+  },
+  {
+    "_id": {
+      "$oid": "67eae94b32180559a2e9c5a2"
+    },
+    "label": "Site Location",
+    "field_id": 530515,
+    "timestamp": {},
+    "__v": 0,
+    "notEditableBy": null
+  },
+  {
+    "_id": {
+      "$oid": "67eae9eb32180559a2e9c5be"
+    },
+    "label": "Supervisor Name (Last, First)",
+    "field_id": 284836,
+    "timestamp": {},
+    "__v": 3,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "placeholder": "Smith, James",
+    "required": true
+  },
+  {
+    "_id": {
+      "$oid": "67eaea5a32180559a2e9c5d3"
+    },
+    "label": "FVS Country Desk Responsibility",
+    "field_id": 403220,
+    "timestamp": {},
+    "__v": 1,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "placeholder": "",
+    "required": false
+  },
+  {
+    "_id": {
+      "$oid": "67eaeb0532180559a2e9c5f5"
+    },
+    "label": "Sign/Initials (Security Manager)",
+    "field_id": 740971,
+    "timestamp": {},
+    "__v": 1,
+    "notEditableBy": [
+      "APP_USER"
+    ],
+    "placeholder": "Smith, James",
+    "required": true
+  },
+  {
+    "_id": {
+      "$oid": "67eaeb1c32180559a2e9c5fc"
+    },
+    "label": "Sign/Initials (Supervisor)",
+    "field_id": 575521,
+    "timestamp": {},
+    "__v": 1,
+    "notEditableBy": [
+      "APP_USER"
+    ],
+    "placeholder": "",
+    "required": true
+  },
+  {
+    "_id": {
+      "$oid": "67eaeb5332180559a2e9c611"
+    },
+    "label": "Sign/Initials (DTSA Functional Manager)",
+    "field_id": 405079,
+    "timestamp": {},
+    "__v": 1,
+    "notEditableBy": [
+      "APP_USER"
+    ],
+    "placeholder": "",
+    "required": true
+  },
+  {
+    "_id": {
+      "$oid": "67eaeb5e32180559a2e9c618"
+    },
+    "label": "Sign/Initials (DTSA Representative)",
+    "field_id": 909842,
+    "timestamp": {},
+    "__v": 1,
+    "notEditableBy": [
+      "APP_USER"
+    ],
+    "placeholder": "",
+    "required": true
+  },
+  {
+    "_id": {
+      "$oid": "67f00d6373a238f80eb268f7"
+    },
+    "label": "USER ID",
+    "field_id": 208706,
+    "timestamp": {},
+    "__v": 1,
+    "notEditableBy": [
+      "APP_USER"
+    ],
+    "placeholder": "",
+    "required": false
+  },
+  {
+    "_id": {
+      "$oid": "67f00d7073a238f80eb268fe"
+    },
+    "label": "DIRECTORY",
+    "field_id": 689995,
+    "timestamp": {},
+    "__v": 1,
+    "notEditableBy": [
+      "APP_USER"
+    ],
+    "placeholder": "",
+    "required": false
+  },
+  {
+    "_id": {
+      "$oid": "67f00d8073a238f80eb26905"
+    },
+    "label": "OFFICE",
+    "field_id": 500814,
+    "timestamp": {},
+    "__v": 1,
+    "notEditableBy": [
+      "APP_USER"
+    ],
+    "placeholder": "",
+    "required": false
+  },
+  {
+    "_id": {
+      "$oid": "67f00d8973a238f80eb2690c"
+    },
+    "label": "ORGANIZATION",
+    "field_id": 837743,
+    "timestamp": {},
+    "__v": 1,
+    "notEditableBy": [
+      "APP_USER"
+    ],
+    "placeholder": "",
+    "required": false
+  },
+  {
+    "_id": {
+      "$oid": "67f00d9173a238f80eb26913"
+    },
+    "label": "AGENCY",
+    "field_id": 559924,
+    "timestamp": {},
+    "__v": 1,
+    "notEditableBy": [
+      "APP_USER"
+    ],
+    "placeholder": "",
+    "required": false
+  },
+  {
+    "_id": {
+      "$oid": "67f010a273a238f80eb26b59"
+    },
+    "label": "Signature/Initials",
+    "field_id": 778019,
+    "timestamp": {},
+    "__v": 0,
+    "notEditableBy": null
+  },
+  {
+    "_id": {
+      "$oid": "67f010b173a238f80eb26b60"
+    },
+    "label": "Printed Name",
+    "field_id": 335513,
+    "timestamp": {},
+    "__v": 0,
+    "notEditableBy": null
+  },
+  {
+    "_id": {
+      "$oid": "67f010b973a238f80eb26b67"
+    },
+    "label": "Company",
+    "field_id": 372954,
+    "timestamp": {},
+    "__v": 0,
+    "notEditableBy": null
+  },
+  {
+    "_id": {
+      "$oid": "67f010c373a238f80eb26b6e"
+    },
+    "label": "Address Line 1",
+    "field_id": 278484,
+    "timestamp": {},
+    "__v": 0,
+    "notEditableBy": null
+  },
+  {
+    "_id": {
+      "$oid": "67f010ca73a238f80eb26b75"
+    },
+    "label": "Address Line 2",
+    "field_id": 272910,
+    "timestamp": {},
+    "__v": 0,
+    "notEditableBy": null
+  },
+  {
+    "_id": {
+      "$oid": "67f013154146b9ac18c589dd"
+    },
+    "label": "Transaction Number",
+    "field_id": 204459,
+    "timestamp": {},
+    "__v": 0,
+    "notEditableBy": null
+  },
+  {
+    "_id": {
+      "$oid": "680800124556949c48e98d81"
+    },
+    "label": "Passport Number",
+    "field_id": 581995,
+    "placeholder": "A0000000",
+    "required": true,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "680aa03b1e9facec149b7569"
+    },
+    "label": "Purpose of Visit",
+    "field_id": 210809,
+    "placeholder": "Purpose",
+    "required": true,
+    "notEditableBy": [],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "681245962b2515b55c791bb6"
+    },
+    "label": "Middle Initial",
+    "field_id": 70728,
+    "placeholder": "B.",
+    "required": false,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684893626e319643aee71919"
+    },
+    "label": "Project Name",
+    "field_id": 676690,
+    "placeholder": "Name",
+    "required": true,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 2
+  },
+  {
+    "_id": {
+      "$oid": "6848991c6e319643aee71d14"
+    },
+    "label": "Resources",
+    "field_id": 51309,
+    "placeholder": "List resources here",
+    "required": true,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68497f656e319643aee71e4c"
+    },
+    "label": "Requirement 1 ID",
+    "field_id": 346883,
+    "placeholder": "ID",
+    "required": false,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684ae1cc6e319643aee78447"
+    },
+    "label": "Requirement 2 ID",
+    "field_id": 322930,
+    "placeholder": "ID",
+    "required": false,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684ae1f56e319643aee78467"
+    },
+    "label": "Requirement 3 ID",
+    "field_id": 556756,
+    "placeholder": "ID",
+    "required": false,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "684ae2426e319643aee784a5"
+    },
+    "label": "Requirement 4 ID",
+    "field_id": 760268,
+    "placeholder": "ID",
+    "required": false,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684ae25b6e319643aee784b5"
+    },
+    "label": "Requirement 5 ID",
+    "field_id": 557228,
+    "placeholder": "ID",
+    "required": false,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  }
+]

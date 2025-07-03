@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"form_id":{"$numberInt":"1"},"system_id":{"$numberInt":"1"}},"name":"form_id_1_system_id_1","background":true,"unique":true}],"uuid":"7efdbe7ad4f84ab4a53e96d6c996d77e","collectionName":"displaycounters","type":"collection"}

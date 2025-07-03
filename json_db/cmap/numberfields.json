@@ -1,0 +1,55 @@
+[
+  {
+    "_id": {
+      "$oid": "67fff45fae1ac74cf8a6946d"
+    },
+    "label": "ID Number",
+    "field_id": 742070,
+    "step": 1,
+    "timestamp": {},
+    "__v": 0,
+    "max": 10000,
+    "min": 1,
+    "required": false,
+    "notEditableBy": null
+  },
+  {
+    "_id": {
+      "$oid": "67fff926ae1ac74cf8a69980"
+    },
+    "label": "Account Number",
+    "field_id": 755564,
+    "step": 1,
+    "timestamp": {},
+    "__v": 0,
+    "notEditableBy": null
+  },
+  {
+    "_id": {
+      "$oid": "684982a46e319643aee7258e"
+    },
+    "label": "Planned Cost (in $)",
+    "field_id": 31662,
+    "step": 1,
+    "required": true,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684982b06e319643aee7259d"
+    },
+    "label": "Actual Cost (in $)",
+    "field_id": 913623,
+    "step": 1,
+    "required": false,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "_id": {
+      "$oid": "684c7511e225ba5c159c2199"
+    },
+    "type": "Dual-Use",
+    "case_number": "55555",
+    "received_date": {},
+    "closed_date": {},
+    "case_status": "Closed",
+    "analyst_first_name": "Jane",
+    "analyst_last_name": "Doe",
+    "analyst_phone": "555-1234",
+    "analyst_email": "jane.doe@example.com",
+    "final_date": {},
+    "analyst_details": "Reviewed and approved",
+    "registration_date": {},
+    "reopen_date": {},
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c7511e225ba5c159c219a"
+    },
+    "type": "Munitions",
+    "case_number": "10002",
+    "received_date": {},
+    "closed_date": {},
+    "case_status": "Pending",
+    "analyst_first_name": "John",
+    "analyst_last_name": "Smith",
+    "analyst_phone": "555-5678",
+    "analyst_email": "john.smith@example.com",
+    "final_date": {},
+    "analyst_details": "In progress",
+    "staffed_organization_status": "Pending",
+    "organization": "Org A",
+    "staffed_date": {},
+    "reply_date": {},
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c7511e225ba5c159c219b"
+    },
+    "type": "CJ",
+    "case_number": "10003",
+    "received_date": {},
+    "closed_date": {},
+    "case_status": "Closed",
+    "analyst_first_name": "Susan",
+    "analyst_last_name": "Lee",
+    "analyst_phone": "555-9876",
+    "analyst_email": "susan.lee@example.com",
+    "final_date": {},
+    "analyst_details": "Cleared",
+    "recommendation": "Approve",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c7511e225ba5c159c219c"
+    },
+    "type": "Dual-Use",
+    "case_number": "10004",
+    "received_date": {},
+    "closed_date": {},
+    "case_status": "Open",
+    "analyst_first_name": "Mark",
+    "analyst_last_name": "Taylor",
+    "analyst_phone": "555-8765",
+    "analyst_email": "mark.taylor@example.com",
+    "final_date": {},
+    "analyst_details": "Under review",
+    "registration_date": {},
+    "reopen_date": {},
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c7511e225ba5c159c219d"
+    },
+    "type": "CJ",
+    "case_number": "10005",
+    "received_date": {},
+    "closed_date": {},
+    "case_status": "Closed",
+    "analyst_first_name": "Linda",
+    "analyst_last_name": "Kim",
+    "analyst_phone": "555-4321",
+    "analyst_email": "linda.kim@example.com",
+    "final_date": {},
+    "analyst_details": "Resolved",
+    "recommendation": "Request Info",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c7511e225ba5c159c219e"
+    },
+    "type": "Munitions",
+    "case_number": "10006",
+    "received_date": {},
+    "closed_date": {},
+    "case_status": "Pending",
+    "analyst_first_name": "Alex",
+    "analyst_last_name": "Nguyen",
+    "analyst_phone": "555-3344",
+    "analyst_email": "alex.nguyen@example.com",
+    "final_date": {},
+    "analyst_details": "Awaiting info",
+    "staffed_organization_status": "In Progress",
+    "organization": "Org B",
+    "staffed_date": {},
+    "reply_date": {},
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c7511e225ba5c159c219f"
+    },
+    "type": "Dual-Use",
+    "case_number": "10007",
+    "received_date": {},
+    "closed_date": {},
+    "case_status": "Open",
+    "analyst_first_name": "Emily",
+    "analyst_last_name": "Chen",
+    "analyst_phone": "555-2211",
+    "analyst_email": "emily.chen@example.com",
+    "final_date": {},
+    "analyst_details": "Awaiting analyst",
+    "registration_date": {},
+    "reopen_date": {},
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c7511e225ba5c159c21a0"
+    },
+    "type": "CJ",
+    "case_number": "10008",
+    "received_date": {},
+    "closed_date": {},
+    "case_status": "Closed",
+    "analyst_first_name": "Tom",
+    "analyst_last_name": "Harris",
+    "analyst_phone": "555-7654",
+    "analyst_email": "tom.harris@example.com",
+    "final_date": {},
+    "analyst_details": "Final review done",
+    "recommendation": "Deferre",
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c7511e225ba5c159c21a1"
+    },
+    "type": "Munitions",
+    "case_number": "10009",
+    "received_date": {},
+    "closed_date": {},
+    "case_status": "Pending",
+    "analyst_first_name": "Nina",
+    "analyst_last_name": "Ali",
+    "analyst_phone": "555-1122",
+    "analyst_email": "nina.ali@example.com",
+    "final_date": {},
+    "analyst_details": "Waiting for committee",
+    "staffed_organization_status": "Staffed",
+    "organization": "Org C",
+    "staffed_date": {},
+    "reply_date": {},
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c7511e225ba5c159c21a2"
+    },
+    "type": "Dual-Use",
+    "case_number": "10010",
+    "received_date": {},
+    "closed_date": {},
+    "case_status": "Open",
+    "analyst_first_name": "Chris",
+    "analyst_last_name": "Jordan",
+    "analyst_phone": "555-9988",
+    "analyst_email": "chris.jordan@example.com",
+    "final_date": {},
+    "analyst_details": "Initial analysis",
+    "registration_date": {},
+    "reopen_date": {},
+    "timestamp": {},
+    "__v": 0
+  }
+]

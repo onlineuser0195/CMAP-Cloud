@@ -1,0 +1,6335 @@
+[
+  {
+    "_id": {
+      "$oid": "684b2ddf8fbdd94c4bfb51ca"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684b306c224e815770a34c11"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684b33c94e2beeb7a3eab69d"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684b33d34e2beeb7a3eab6f5"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684b33df4e2beeb7a3eab781"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684b34184e2beeb7a3eab813"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Admin",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684b35890f7244f435c3c126"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Admin",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684b36dc0f7244f435c3c1c6"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684b36f60f7244f435c3c221"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Configuration Specialist",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684b370a0f7244f435c3c26f"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684b37910f7244f435c3c2f1"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Configuration Specialist",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684b38410f7244f435c3c3c3"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684b3f670e2a7d2d172f04c7"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684b4dcd7ace04485b49f4f7"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c355b0b8ac4ee33d3c03b"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c36e80b8ac4ee33d3c10f"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Industry Applicant",
+      "selectedSystem": 4
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c39ce5de05c4aad6e5d44"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c3b0d87458b4b6ffc3cf4"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Industry Applicant",
+      "selectedSystem": 4
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c3b1c87458b4b6ffc3d27"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c3bb687458b4b6ffc3e32"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c3bd687458b4b6ffc3f36"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c3e8cd6030abc7cc19063"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c4935d6030abc7cc198a8"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "App User",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c4b87d6030abc7cc19afe"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Local Admin",
+      "selectedSystem": 4
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c4bc8d6030abc7cc19b6c"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c5903843355d3e126fd08"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c5e12843355d3e127075e"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c6a633de6029e21d24d9e"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "App User",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c705f3de6029e21d2525b"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Supervisor",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c72363de6029e21d25a34"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Supervisor",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c87a12b5a03a235acb445"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c67f91838aeda8ce68ece"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c68101838aeda8ce68ed1"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c68b81838aeda8ce68f2f"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c68fe1838aeda8ce68f8d"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c6943e225ba5c159c1d2a"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c6abfe225ba5c159c1d59"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c71ffe225ba5c159c1ebd"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c7344e225ba5c159c1f44"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c734ee225ba5c159c1fcc"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c73dee225ba5c159c212b"
+    },
+    "userId": "pdarekar@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "IT User",
+      "selectedSystem": 4
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c74d2e225ba5c159c218e"
+    },
+    "userId": "pdarekar@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "IT User",
+      "selectedSystem": 4
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c762fe225ba5c159c222b"
+    },
+    "userId": "pdarekar@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "SPAN Support User",
+      "selectedSystem": 4
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c76d5e225ba5c159c2290"
+    },
+    "userId": "pdarekar@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Industry Applicant",
+      "selectedSystem": 4
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c77dde225ba5c159c2326"
+    },
+    "userId": "pdarekar@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Admin",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c791ce225ba5c159c2419"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c7fb8e225ba5c159c2576"
+    },
+    "userId": "kanand@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "App User",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c8012e225ba5c159c3ea5"
+    },
+    "userId": "kanand@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Supervisor",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c801de225ba5c159c45aa"
+    },
+    "userId": "684c489b00e59c5195b4c7f6",
+    "action": "Resubmission Allowed",
+    "payload": {
+      "progress": "in_progress",
+      "systemId": "5",
+      "formId": "11",
+      "respId": "684aef80e61d4728d724a9e9"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c802be225ba5c159c45f7"
+    },
+    "userId": "kanand@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Admin",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c83b9e225ba5c159c522e"
+    },
+    "userId": "kanand@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "App User",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c84f5e225ba5c159c5975"
+    },
+    "userId": "684c488600e59c5195b4c7f5",
+    "action": "Form Submission",
+    "payload": {
+      "newProgress": "in_progress",
+      "systemId": "5",
+      "formId": "11",
+      "respId": "684c83c0260cda8240500bb7"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c84f7e225ba5c159c5979"
+    },
+    "userId": "684c488600e59c5195b4c7f5",
+    "action": "Form Submission",
+    "payload": {
+      "newProgress": "submitted",
+      "systemId": "5",
+      "formId": "11",
+      "respId": "684c83c0260cda8240500bb7"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c8504e225ba5c159c59c8"
+    },
+    "userId": "kanand@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Supervisor",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c8519e225ba5c159c611f"
+    },
+    "userId": "684c489b00e59c5195b4c7f6",
+    "action": "Resubmission Allowed",
+    "payload": {
+      "progress": "in_progress",
+      "systemId": "5",
+      "formId": "11",
+      "respId": "6848946d3e8b63bbf01fa62f"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c8544e225ba5c159c6b93"
+    },
+    "userId": "kanand@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "App User",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c8573e225ba5c159c6f3b"
+    },
+    "userId": "684c488600e59c5195b4c7f5",
+    "action": "Form Submission",
+    "payload": {
+      "newProgress": "submitted",
+      "systemId": "5",
+      "formId": "11",
+      "respId": "6848946d3e8b63bbf01fa62f"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c86dee225ba5c159c799a"
+    },
+    "userId": "684c488600e59c5195b4c7f5",
+    "action": "Form Submission",
+    "payload": {
+      "newProgress": "submitted",
+      "systemId": "5",
+      "formId": "11",
+      "respId": "684c857cb7f41d399efdaa88"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c86e9e225ba5c159c79e9"
+    },
+    "userId": "kanand@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Supervisor",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c871de225ba5c159c80e6"
+    },
+    "userId": "684c489b00e59c5195b4c7f6",
+    "action": "Form Approval",
+    "payload": {
+      "decision": true,
+      "systemId": "5",
+      "formId": "11",
+      "respId": "684c857cb7f41d399efdaa88"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c8741e225ba5c159c8449"
+    },
+    "userId": "684c489b00e59c5195b4c7f6",
+    "action": "Form Approval",
+    "payload": {
+      "decision": true,
+      "systemId": "5",
+      "formId": "11",
+      "respId": "684c83c0260cda8240500bb7"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c88ffe225ba5c159c8549"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c89f02da09995861b5cd3"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c90f64df75d57478e3eb0"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "App User",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c91b34df75d57478e3f47"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Admin",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c91ff4df75d57478e4330"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c95e04edfd784a840beb2"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c96744edfd784a840bf13"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c988e4edfd784a840c16c"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c9b1a4edfd784a840c5fd"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684ca4d44edfd784a840dd06"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684ca5ad4edfd784a840e427"
+    },
+    "userId": "684c489b00e59c5195b4c7f6",
+    "action": "Form Approval",
+    "payload": {
+      "decision": false,
+      "systemId": "5",
+      "formId": "11",
+      "respId": "684c83c0260cda8240500bb7"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684ca5b14edfd784a840e42a"
+    },
+    "userId": "684c489b00e59c5195b4c7f6",
+    "action": "Form Approval",
+    "payload": {
+      "decision": false,
+      "systemId": "5",
+      "formId": "11",
+      "respId": "684c83c0260cda8240500bb7"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684ca6d94edfd784a840eb65"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Portfolio Owner",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684caae4de4a7b3cded728d0"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Portfolio Owner",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684caaf6de4a7b3cded72957"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Admin",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684cad3ede4a7b3cded72db7"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684cb077dc3ecdbdb5dc8309"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68502660e5ef7a92c84b489d"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Portfolio Owner",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685026a4e5ef7a92c84b48cd"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Portfolio Owner",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6850279ae5ef7a92c84b49c6"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685027a5e5ef7a92c84b4a5d"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Portfolio Owner",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68502ae3e5ef7a92c84b4af4"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Portfolio Owner",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68504277e5ef7a92c84b4c1b"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685054ee8f0993a1136995c5"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6850552b197e681851b60d40"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685077de09c2857e78749ee2"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6850783f09c2857e78749fe6"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6850786709c2857e7874a0be"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685078e209c2857e7874a1a2"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68507c2c09c2857e7874a336"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685082a809c2857e7874a452"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6850834f09c2857e7874a4b6"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6850890809c2857e7874a8d6"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68508e3b09c2857e7874ab8a"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68508f2309c2857e7874ac2c"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6850921509c2857e7874adcc"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685189e42a70347dd9fb182a"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685196b72a70347dd9fb1c0c"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685199292a70347dd9fb1c8a"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685199772a70347dd9fb1ce4"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685199d52a70347dd9fb1d38"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685199fd2a70347dd9fb1d8c"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68519a382a70347dd9fb1df4"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Industry Applicant",
+      "selectedSystem": 4
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68519a422a70347dd9fb1e81"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "SPAN Support User",
+      "selectedSystem": 4
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68519a5b2a70347dd9fb1ee1"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Industry Applicant",
+      "selectedSystem": 4
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68519aad2a70347dd9fb1f3d"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6851ac352a70347dd9fb21c3"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6851aca42a70347dd9fb221d"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6851aed32a70347dd9fb22b9"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6851af782a70347dd9fb2313"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6851b1b12a70347dd9fb2459"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Confirmation User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6851b1bc2a70347dd9fb24d1"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Admin",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6851b1f62a70347dd9fb2553"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Confirmation User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6851b8482a70347dd9fb25f7"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6851b8882a70347dd9fb2651"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Confirmation User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6851b8932a70347dd9fb26b9"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Admin",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6851b8a82a70347dd9fb271b"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Configuration Specialist",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6851bb77eaff75cb7c903dfc"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6851bc51e856a1b9d40aa9a0"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6851bda4e856a1b9d40aaa72"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6851be17e856a1b9d40aabeb"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Confirmation User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6851c09c020885d8ae8d6a04"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6851c8d2020885d8ae8d6bfa"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6851d5d7020885d8ae8d6d75"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6851d793020885d8ae8d6e39"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6851d91e020885d8ae8d6edb"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6851dbb5020885d8ae8d6fe6"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6851dde5020885d8ae8d70e0"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6851e091020885d8ae8d74d7"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6852d761f014e48d87173cdb"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6852d8eaf014e48d87173e0e"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6852d9c2f014e48d871741fb"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6852da05f014e48d871743df"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6852da52f014e48d871744d5"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Configuration Specialist",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6852db53f014e48d8717468b"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6852ecdbaa6f8d9b7dae2a61"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6852ece3aa6f8d9b7dae2a64"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6852ee25aa6f8d9b7dae317b"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6852ee3aaa6f8d9b7dae3222"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6852f26aaa6f8d9b7dae3fcd"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6852f296aa6f8d9b7dae4074"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6852f69baa6f8d9b7dae5169"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6852f6bcaa6f8d9b7dae5247"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6852f777aa6f8d9b7dae55f7"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6852fc12aa6f8d9b7dae66ec"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6852fe58aa6f8d9b7dae74d9"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6853036faa6f8d9b7dae7647"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6853037faa6f8d9b7dae76ed"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Confirmation User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68530387aa6f8d9b7dae7745"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Admin",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6853038eaa6f8d9b7dae77a7"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Configuration Specialist",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685303c5aa6f8d9b7dae7947"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68530439aa6f8d9b7dae7a33"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68530488aa6f8d9b7dae7b10"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa27c98d60534bd3df1",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "false",
+        "createdAt": "2025-04-28T17:49:33.199Z",
+        "fields": {
+          "1": "Ella",
+          "2": "Cooper",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "U3940284",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-06-17T21:12:25.647Z",
+        "comment": "No!",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-30T15:26:54.283Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "6851d29f945310aca81ab5be"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68530489aa6f8d9b7dae7b14"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa2a918342f7c61feab",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "true",
+        "createdAt": "2025-04-28T17:49:33.191Z",
+        "fields": {
+          "1": "Tony",
+          "2": "Mark",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "A4930294",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-05-13T16:58:30.028Z",
+        "comment": "approving only Tom",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-28T17:57:23.729Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "67dadb88fea3d26bd2a7460e"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68530489aa6f8d9b7dae7b16"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa27c98d60534bd3df1",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "false",
+        "createdAt": "2025-04-28T17:49:33.199Z",
+        "fields": {
+          "1": "Ella",
+          "2": "Cooper",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "U3940284",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-06-17T21:12:25.647Z",
+        "comment": "No!",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-30T15:26:54.283Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "6851d29f945310aca81ab5be"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6853048baa6f8d9b7dae7b18"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa2a918342f7c61feab",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "true",
+        "createdAt": "2025-04-28T17:49:33.191Z",
+        "fields": {
+          "1": "Tony",
+          "2": "Mark",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "A4930294",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-05-13T16:58:30.028Z",
+        "comment": "approving only Tom",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-28T17:57:23.729Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "67dadb88fea3d26bd2a7460e"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6853048caa6f8d9b7dae7b1a"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa27c98d60534bd3df1",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "false",
+        "createdAt": "2025-04-28T17:49:33.199Z",
+        "fields": {
+          "1": "Ella",
+          "2": "Cooper",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "U3940284",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-06-17T21:12:25.647Z",
+        "comment": "No!",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-30T15:26:54.283Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "6851d29f945310aca81ab5be"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6853048eaa6f8d9b7dae7b1c"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa2a918342f7c61feab",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "true",
+        "createdAt": "2025-04-28T17:49:33.191Z",
+        "fields": {
+          "1": "Tony",
+          "2": "Mark",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "A4930294",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-05-13T16:58:30.028Z",
+        "comment": "approving only Tom",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-28T17:57:23.729Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "67dadb88fea3d26bd2a7460e"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6853048eaa6f8d9b7dae7b1e"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa27c98d60534bd3df1",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "false",
+        "createdAt": "2025-04-28T17:49:33.199Z",
+        "fields": {
+          "1": "Ella",
+          "2": "Cooper",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "U3940284",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-06-17T21:12:25.647Z",
+        "comment": "No!",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-30T15:26:54.283Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "6851d29f945310aca81ab5be"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68530573aa6f8d9b7dae7d8d"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68530744aa6f8d9b7dae7e30"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68530766aa6f8d9b7dae7eb6"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68530777aa6f8d9b7dae7f06"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Portfolio Owner",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68530786aa6f8d9b7dae7f6c"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Admin",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68530923aa6f8d9b7dae8154"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68530fe0aa6f8d9b7dae8225"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68531113aa6f8d9b7dae861f"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6853117eaa6f8d9b7dae86e2"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685315f1aa6f8d9b7dae9791"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa27c98d60534bd3df1",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "false",
+        "createdAt": "2025-04-28T17:49:33.199Z",
+        "fields": {
+          "1": "Ella",
+          "2": "Cooper",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "U3940284",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-06-18T18:25:09.745Z",
+        "comment": "No!",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-30T15:26:54.283Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "6851d29f945310aca81ab5be"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685315f2aa6f8d9b7dae9795"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa2a918342f7c61feab",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "true",
+        "createdAt": "2025-04-28T17:49:33.191Z",
+        "fields": {
+          "1": "Tony",
+          "2": "Mark",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "A4930294",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-06-18T18:25:12.885Z",
+        "comment": "approving only Tom",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-28T17:57:23.729Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "6851d29f945310aca81ab5be"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685317524103025b1517bc2d"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa27c98d60534bd3df1",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "false",
+        "createdAt": "2025-04-28T17:49:33.199Z",
+        "fields": {
+          "1": "Ella",
+          "2": "Cooper",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "U3940284",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-06-18T19:39:27.396Z",
+        "comment": "No!",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-30T15:26:54.283Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "6851d29f945310aca81ab5be"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685317694103025b1517bd12"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685317734103025b1517bd9a"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6853177e4103025b1517be25"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Configuration Specialist",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685317b17548315d006ee06e"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Configuration Specialist",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68531955a34feebbdbdacc6e"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6853238e3bf6f02d87bf6e30"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68532d423bf6f02d87bf751c"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68532db53bf6f02d87bf78f3"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685571f7a314a52414f3c03e"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68557335a314a52414f3c1ee"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "IT User",
+      "selectedSystem": 4
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685575f8a314a52414f3c251"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Admin",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68557647a314a52414f3c2d1"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68557655a314a52414f3c366"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Local Admin",
+      "selectedSystem": 4
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68557cc4a314a52414f3c461"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68557cd0a314a52414f3c490"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68557fcba314a52414f3c536"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "IT User",
+      "selectedSystem": 4
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68558cc8a314a52414f3c5c5"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6855960ba314a52414f3cf46"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa27c98d60534bd3df1",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "false",
+        "createdAt": "2025-04-28T17:49:33.199Z",
+        "fields": {
+          "1": "Ella",
+          "2": "Cooper",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "U3940284",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-06-20T17:09:39.533Z",
+        "comment": "No!",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-30T15:26:54.283Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "6851d29f945310aca81ab5be"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6855960ca314a52414f3cf4a"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa2a918342f7c61feab",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "true",
+        "createdAt": "2025-04-28T17:49:33.191Z",
+        "fields": {
+          "1": "Tony",
+          "2": "Mark",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "A4930294",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-06-18T19:45:22.107Z",
+        "comment": "approving only Tom",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-28T17:57:23.729Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "6851d29f945310aca81ab5be"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6855960ca314a52414f3cf4c"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa27c98d60534bd3df1",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "false",
+        "createdAt": "2025-04-28T17:49:33.199Z",
+        "fields": {
+          "1": "Ella",
+          "2": "Cooper",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "U3940284",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-06-20T17:09:39.533Z",
+        "comment": "No!",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-30T15:26:54.283Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "6851d29f945310aca81ab5be"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68559631a314a52414f3cf4e"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa2a918342f7c61feab",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "true",
+        "createdAt": "2025-04-28T17:49:33.191Z",
+        "fields": {
+          "1": "Tony",
+          "2": "Mark",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "A4930294",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-06-18T19:45:22.107Z",
+        "comment": "approving only Tom",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-28T17:57:23.729Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "6851d29f945310aca81ab5be"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68559631a314a52414f3cf50"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa27c98d60534bd3df1",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "false",
+        "createdAt": "2025-04-28T17:49:33.199Z",
+        "fields": {
+          "1": "Ella",
+          "2": "Cooper",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "U3940284",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-06-20T17:09:39.533Z",
+        "comment": "No!",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-30T15:26:54.283Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "6851d29f945310aca81ab5be"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685596bba314a52414f3cf52"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa2a918342f7c61feab",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "true",
+        "createdAt": "2025-04-28T17:49:33.191Z",
+        "fields": {
+          "1": "Tony",
+          "2": "Mark",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "A4930294",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-06-18T19:45:22.107Z",
+        "comment": "approving only Tom",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-28T17:57:23.729Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "6851d29f945310aca81ab5be"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685596bca314a52414f3cf54"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa27c98d60534bd3df1",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "false",
+        "createdAt": "2025-04-28T17:49:33.199Z",
+        "fields": {
+          "1": "Ella",
+          "2": "Cooper",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "U3940284",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-06-20T17:09:39.533Z",
+        "comment": "No!",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-30T15:26:54.283Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "6851d29f945310aca81ab5be"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685596bda314a52414f3cf56"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa2a918342f7c61feab",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "true",
+        "createdAt": "2025-04-28T17:49:33.191Z",
+        "fields": {
+          "1": "Tony",
+          "2": "Mark",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "A4930294",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-06-18T19:45:22.107Z",
+        "comment": "approving only Tom",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-28T17:57:23.729Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "6851d29f945310aca81ab5be"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685596bda314a52414f3cf58"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa27c98d60534bd3df1",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "false",
+        "createdAt": "2025-04-28T17:49:33.199Z",
+        "fields": {
+          "1": "Ella",
+          "2": "Cooper",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "U3940284",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-06-20T17:09:39.533Z",
+        "comment": "No!",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-30T15:26:54.283Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "6851d29f945310aca81ab5be"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685596bfa314a52414f3cf5a"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa2a918342f7c61feab",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "true",
+        "createdAt": "2025-04-28T17:49:33.191Z",
+        "fields": {
+          "1": "Tony",
+          "2": "Mark",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "A4930294",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-06-18T19:45:22.107Z",
+        "comment": "approving only Tom",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-28T17:57:23.729Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "6851d29f945310aca81ab5be"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685596c0a314a52414f3cf5c"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa27c98d60534bd3df1",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "false",
+        "createdAt": "2025-04-28T17:49:33.199Z",
+        "fields": {
+          "1": "Ella",
+          "2": "Cooper",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "U3940284",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-06-20T17:09:39.533Z",
+        "comment": "No!",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-30T15:26:54.283Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "6851d29f945310aca81ab5be"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685596c3a314a52414f3cf5e"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa2a918342f7c61feab",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "true",
+        "createdAt": "2025-04-28T17:49:33.191Z",
+        "fields": {
+          "1": "Tony",
+          "2": "Mark",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "A4930294",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-06-18T19:45:22.107Z",
+        "comment": "approving only Tom",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-28T17:57:23.729Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "6851d29f945310aca81ab5be"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685596c3a314a52414f3cf60"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa27c98d60534bd3df1",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "false",
+        "createdAt": "2025-04-28T17:49:33.199Z",
+        "fields": {
+          "1": "Ella",
+          "2": "Cooper",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "U3940284",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-06-20T17:09:39.533Z",
+        "comment": "No!",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-30T15:26:54.283Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "6851d29f945310aca81ab5be"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685596c6a314a52414f3cf62"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa2a918342f7c61feab",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "true",
+        "createdAt": "2025-04-28T17:49:33.191Z",
+        "fields": {
+          "1": "Tony",
+          "2": "Mark",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "A4930294",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-06-18T19:45:22.107Z",
+        "comment": "approving only Tom",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-28T17:57:23.729Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "6851d29f945310aca81ab5be"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685596c7a314a52414f3cf64"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa2a918342f7c61feab",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "true",
+        "createdAt": "2025-04-28T17:49:33.191Z",
+        "fields": {
+          "1": "Tony",
+          "2": "Mark",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "A4930294",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-06-18T19:45:22.107Z",
+        "comment": "approving only Tom",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-28T17:57:23.729Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "6851d29f945310aca81ab5be"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685596c7a314a52414f3cf66"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa27c98d60534bd3df1",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "false",
+        "createdAt": "2025-04-28T17:49:33.199Z",
+        "fields": {
+          "1": "Ella",
+          "2": "Cooper",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "U3940284",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-06-20T17:09:39.533Z",
+        "comment": "No!",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-30T15:26:54.283Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "6851d29f945310aca81ab5be"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685596c9a314a52414f3cf68"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa2a918342f7c61feab",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "true",
+        "createdAt": "2025-04-28T17:49:33.191Z",
+        "fields": {
+          "1": "Tony",
+          "2": "Mark",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "A4930294",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-06-18T19:45:22.107Z",
+        "comment": "approving only Tom",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-28T17:57:23.729Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "6851d29f945310aca81ab5be"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685596caa314a52414f3cf6a"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa27c98d60534bd3df1",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "false",
+        "createdAt": "2025-04-28T17:49:33.199Z",
+        "fields": {
+          "1": "Ella",
+          "2": "Cooper",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "U3940284",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-06-20T17:09:39.533Z",
+        "comment": "No!",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-30T15:26:54.283Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "6851d29f945310aca81ab5be"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685596caa314a52414f3cf6c"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa2a918342f7c61feab",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "true",
+        "createdAt": "2025-04-28T17:49:33.191Z",
+        "fields": {
+          "1": "Tony",
+          "2": "Mark",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "A4930294",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-06-18T19:45:22.107Z",
+        "comment": "approving only Tom",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-28T17:57:23.729Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "6851d29f945310aca81ab5be"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685596cba314a52414f3cf6e"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "680fbfa27c98d60534bd3df1",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "false",
+        "createdAt": "2025-04-28T17:49:33.199Z",
+        "fields": {
+          "1": "Ella",
+          "2": "Cooper",
+          "121215": "2025-05-14",
+          "148257": null,
+          "210809": "Tour",
+          "581995": "U3940284",
+          "734955": "Fort Myer",
+          "986680": "2025-05-07"
+        },
+        "group_id": 1745862562559,
+        "progress": "submitted",
+        "updatedAt": "2025-06-20T17:09:39.533Z",
+        "comment": "No!",
+        "display_id": "000000013",
+        "submittedAt": "2025-04-30T15:26:54.283Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "submitted_by": "67dadb88fea3d26bd2a7460e",
+        "approved_by": "67dadb9efea3d26bd2a74611",
+        "updated_by": "6851d29f945310aca81ab5be"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685596e1a314a52414f3cfb5"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68559bcaa314a52414f3d140"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Confirmation User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68559f44a314a52414f3d198"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "IT User",
+      "selectedSystem": 4
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6855ab8d24027517d11cdb9d"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6855ac4124027517d11cdd0e"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6855ac9624027517d11cde17"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6855af3224027517d11cdfa1"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6855b00c24027517d11ce382"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6855b0bf24027517d11ce441"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6855b0e624027517d11ce4cd"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6855be7224027517d11ce586"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "IT User",
+      "selectedSystem": 4
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6855c07724027517d11ce66d"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6855c1f324027517d11ce793"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6855c23a24027517d11ce811"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6855c52a24027517d11ce986"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6855c53e24027517d11ce9da"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6855c82724027517d11cf84e"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6855c86724027517d11cfa14"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6855c91e24027517d11cfdbf"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6855c92b24027517d11cfe19"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6855cdd924027517d11d0157"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6855cded24027517d11d01b1"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6855ce0024027517d11d0224"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "681d26b54f185e252f0aab37",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "",
+        "createdAt": "2025-05-08T21:48:38.854Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "display_id": "000000035",
+        "fields": {
+          "1": "Tom",
+          "2": "Marshall",
+          "70728": "",
+          "121215": "2025-01-04",
+          "148257": {
+            "originalname": "System Overview (1).pdf",
+            "filename": "file-1747155541352.pdf",
+            "mimetype": "application/pdf",
+            "size": 197043,
+            "path": "uploads\\system-2\\form-9\\file-1747155541352.pdf"
+          },
+          "210809": "VIP Tour",
+          "581995": "A0000003",
+          "734955": "DoD Washington DC",
+          "986680": "2025-01-03",
+          "userId": "67dadb88fea3d26bd2a7460e"
+        },
+        "group_id": 1746740917454,
+        "progress": "submitted",
+        "updatedAt": "2025-06-20T18:46:52.118Z",
+        "updated_by": "6851d29f945310aca81ab5be",
+        "submittedAt": "2025-05-13T16:59:01.384Z",
+        "submitted_by": "67dadb88fea3d26bd2a7460e"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6855ce0124027517d11d0228"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "681d26b5ee9a0de796dd1a81",
+        "system_id": 2,
+        "form_id": 9,
+        "__v": 0,
+        "approved": "",
+        "createdAt": "2025-05-08T21:48:38.860Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "display_id": "000000035",
+        "fields": {
+          "1": "Elly",
+          "2": "Beth",
+          "70728": "",
+          "121215": "2025-01-04",
+          "148257": null,
+          "210809": "VIP Tour",
+          "581995": "A0000004",
+          "734955": "DoD Washington DC",
+          "986680": "2025-01-03",
+          "userId": "67dadb88fea3d26bd2a7460e"
+        },
+        "group_id": 1746740917454,
+        "progress": "submitted",
+        "updatedAt": "2025-06-20T18:45:34.400Z",
+        "updated_by": "6851d29f945310aca81ab5bf",
+        "submittedAt": "2025-05-13T16:59:01.357Z",
+        "submitted_by": "67dadb88fea3d26bd2a7460e"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6855ce0224027517d11d022a"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "681d26b54f185e252f0aab37",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "",
+        "createdAt": "2025-05-08T21:48:38.854Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "display_id": "000000035",
+        "fields": {
+          "1": "Tom",
+          "2": "Marshall",
+          "70728": "",
+          "121215": "2025-01-04",
+          "148257": {
+            "originalname": "System Overview (1).pdf",
+            "filename": "file-1747155541352.pdf",
+            "mimetype": "application/pdf",
+            "size": 197043,
+            "path": "uploads\\system-2\\form-9\\file-1747155541352.pdf"
+          },
+          "210809": "VIP Tour",
+          "581995": "A0000003",
+          "734955": "DoD Washington DC",
+          "986680": "2025-01-03",
+          "userId": "67dadb88fea3d26bd2a7460e"
+        },
+        "group_id": 1746740917454,
+        "progress": "submitted",
+        "updatedAt": "2025-06-20T18:46:52.118Z",
+        "updated_by": "6851d29f945310aca81ab5be",
+        "submittedAt": "2025-05-13T16:59:01.384Z",
+        "submitted_by": "67dadb88fea3d26bd2a7460e"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6855ce9224027517d11d0259"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6855d0b124027517d11d036d"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Confirmation User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68596f36c102a99dfd2f6162"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685971a7c102a99dfd2f6294"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685974a6c102a99dfd2f6629"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859776cc102a99dfd2f6d1b"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685977f8c102a99dfd2f7212"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Admin",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685978b1c102a99dfd2f7307"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68597be2c102a99dfd2f7582"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859851cc102a99dfd2f9019"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68598663c102a99dfd2f92e0"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68598680c102a99dfd2f933a"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859868cc102a99dfd2f938f"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68598a1bc102a99dfd2f960a"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68598a37c102a99dfd2f9885"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685993e01b0b6981b58b3083"
+    },
+    "userId": "6851d29f945310aca81ab5c7",
+    "action": "Form Submission",
+    "payload": {
+      "newProgress": "in_progress",
+      "systemId": "5",
+      "formId": "11",
+      "respId": "68532acca8442b6be806df56"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685994181b0b6981b58b30b2"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685994791b0b6981b58b337f"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859962d1b0b6981b58b4993"
+    },
+    "userId": "6851d29f945310aca81ab5c7",
+    "action": "Form Submission",
+    "payload": {
+      "newProgress": "submitted",
+      "systemId": "5",
+      "formId": "11",
+      "respId": "68532acca8442b6be806df56"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685997cd4ec50a694badc525"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685999104ec50a694badcbd5"
+    },
+    "userId": "6851d29f945310aca81ab5c8",
+    "action": "Form Approval",
+    "payload": {
+      "decision": false,
+      "systemId": "5",
+      "formId": "11",
+      "respId": "68532acca8442b6be806df56"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859991e4ec50a694badcbd8"
+    },
+    "userId": "6851d29f945310aca81ab5c8",
+    "action": "Resubmission Allowed",
+    "payload": {
+      "progress": "in_progress",
+      "systemId": "5",
+      "formId": "11",
+      "respId": "68532acca8442b6be806df56"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859992d4ec50a694badcc07"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859993d4ec50a694badce59"
+    },
+    "userId": "6851d29f945310aca81ab5c7",
+    "action": "Form Submission",
+    "payload": {
+      "newProgress": "submitted",
+      "systemId": "5",
+      "formId": "11",
+      "respId": "68532acca8442b6be806df56"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859996c4ec50a694badce88"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68599abb4ec50a694badd333"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68599d524ec50a694badd7ee"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68599d724ec50a694badda3d"
+    },
+    "userId": "6851d29f945310aca81ab5c8",
+    "action": "Resubmission Allowed",
+    "payload": {
+      "progress": "in_progress",
+      "systemId": "5",
+      "formId": "11",
+      "respId": "68532acca8442b6be806df56"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68599e1d4ec50a694badda41"
+    },
+    "userId": "6851d29f945310aca81ab5c8",
+    "action": "Form Approval",
+    "payload": {
+      "decision": false,
+      "systemId": "5",
+      "formId": "11",
+      "respId": "68532acca8442b6be806df56"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68599e304ec50a694badda44"
+    },
+    "userId": "6851d29f945310aca81ab5c8",
+    "action": "Resubmission Allowed",
+    "payload": {
+      "progress": "in_progress",
+      "systemId": "5",
+      "formId": "11",
+      "respId": "68532acca8442b6be806df56"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68599e334ec50a694badda48"
+    },
+    "userId": "6851d29f945310aca81ab5c8",
+    "action": "Form Approval",
+    "payload": {
+      "decision": false,
+      "systemId": "5",
+      "formId": "11",
+      "respId": "68532acca8442b6be806df56"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68599e424ec50a694badda4c"
+    },
+    "userId": "6851d29f945310aca81ab5c8",
+    "action": "Form Approval",
+    "payload": {
+      "decision": false,
+      "systemId": "5",
+      "formId": "11",
+      "respId": "68532acca8442b6be806df56"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68599e494ec50a694badda50"
+    },
+    "userId": "6851d29f945310aca81ab5c8",
+    "action": "Form Approval",
+    "payload": {
+      "decision": false,
+      "systemId": "5",
+      "formId": "11",
+      "respId": "68532acca8442b6be806df56"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859a14e4ec50a694baddcaf"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859a235eeb51f2ca6d9c183"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859a3cb1ea75b5e67061460"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859a3d81ea75b5e670616b0"
+    },
+    "userId": "6851d29f945310aca81ab5c8",
+    "action": "Form Approval",
+    "payload": {
+      "decision": false,
+      "systemId": "5",
+      "formId": "11",
+      "respId": "68532acca8442b6be806df56"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859a3e41ea75b5e670618e4"
+    },
+    "userId": "6851d29f945310aca81ab5c8",
+    "action": "Form Approval",
+    "payload": {
+      "decision": false,
+      "systemId": "5",
+      "formId": "11",
+      "respId": "68532acca8442b6be806df56"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859a4481ea75b5e67061d48"
+    },
+    "userId": "6851d29f945310aca81ab5c8",
+    "action": "Form Approval",
+    "payload": {
+      "decision": false,
+      "systemId": "5",
+      "formId": "11",
+      "respId": "68532acca8442b6be806df56"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859a46728f2391a92a25b4d"
+    },
+    "userId": "6851d29f945310aca81ab5c8",
+    "action": "Form Approval",
+    "payload": {
+      "decision": false,
+      "systemId": "5",
+      "formId": "11",
+      "respId": "68532acca8442b6be806df56"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859a66828f2391a92a25fb2"
+    },
+    "userId": "6851d29f945310aca81ab5c8",
+    "action": "Form Approval",
+    "payload": {
+      "decision": false,
+      "systemId": "5",
+      "formId": "11",
+      "respId": "68532acca8442b6be806df56"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859a67a28f2391a92a261e5"
+    },
+    "userId": "6851d29f945310aca81ab5c8",
+    "action": "Resubmission Allowed",
+    "payload": {
+      "progress": "in_progress",
+      "systemId": "5",
+      "formId": "11",
+      "respId": "68532acca8442b6be806df56"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859a68a28f2391a92a26418"
+    },
+    "userId": "6851d29f945310aca81ab5c8",
+    "action": "Resubmission Allowed",
+    "payload": {
+      "progress": "in_progress",
+      "systemId": "5",
+      "formId": "11",
+      "respId": "68532acca8442b6be806df56"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859a69128f2391a92a2664d"
+    },
+    "userId": "6851d29f945310aca81ab5c8",
+    "action": "Form Approval",
+    "payload": {
+      "decision": false,
+      "systemId": "5",
+      "formId": "11",
+      "respId": "68532acca8442b6be806df56"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859a849b2b99ebbc57987e4"
+    },
+    "userId": "6851d29f945310aca81ab5c8",
+    "action": "Form Approval",
+    "payload": {
+      "decision": false,
+      "systemId": "5",
+      "formId": "11",
+      "respId": "68532acca8442b6be806df56"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859a851b2b99ebbc57987e7"
+    },
+    "userId": "6851d29f945310aca81ab5c8",
+    "action": "Form Approval",
+    "payload": {
+      "decision": false,
+      "systemId": "5",
+      "formId": "11",
+      "respId": "68532acca8442b6be806df56"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859a87eb2b99ebbc57988fd"
+    },
+    "userId": "6851d29f945310aca81ab5c8",
+    "action": "Form Approval",
+    "payload": {
+      "decision": false,
+      "systemId": "5",
+      "formId": "11",
+      "respId": "68532acca8442b6be806df56"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859a8bcb2b99ebbc5798b30"
+    },
+    "userId": "6851d29f945310aca81ab5c8",
+    "action": "Form Approval",
+    "payload": {
+      "decision": false,
+      "systemId": "5",
+      "formId": "11",
+      "respId": "68532acca8442b6be806df56"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859a8bfb2b99ebbc5798b33"
+    },
+    "userId": "6851d29f945310aca81ab5c8",
+    "action": "Resubmission Allowed",
+    "payload": {
+      "progress": "in_progress",
+      "systemId": "5",
+      "formId": "11",
+      "respId": "68532acca8442b6be806df56"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859a8d1b2b99ebbc5798b78"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859ab1c4c3ae3b53145d527"
+    },
+    "userId": "6851d29f945310aca81ab5c7",
+    "action": "Form Submission",
+    "payload": {
+      "newProgress": "in_progress",
+      "systemId": "5",
+      "formId": "11",
+      "respId": "68532acca8442b6be806df56"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859ab914c3ae3b53145d79e"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859aeac5cc97cf097f2f3d8"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859aeb85cc97cf097f2f62a"
+    },
+    "userId": "6851d29f945310aca81ab5c7",
+    "action": "Form Submission",
+    "payload": {
+      "newProgress": "in_progress",
+      "systemId": "5",
+      "formId": "11",
+      "respId": "68532acca8442b6be806df56"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859aec95cc97cf097f2f659"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859aedb5cc97cf097f2f8d4"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859af0b5cc97cf097f301e1"
+    },
+    "userId": "6851d29f945310aca81ab5c7",
+    "action": "Form Submission",
+    "payload": {
+      "newProgress": "in_progress",
+      "systemId": "5",
+      "formId": "11",
+      "respId": "6859aee0e9c5180653e0045f"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859af145cc97cf097f30210"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859b02b5cc97cf097f304a1"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859b06d5cc97cf097f30547"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859b3958f3e129bdd356ca6"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859b3bf8f3e129bdd356d83"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "681d26b54f185e252f0aab37",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "",
+        "createdAt": "2025-05-08T21:48:38.854Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "display_id": "000000035",
+        "fields": {
+          "1": "Tom",
+          "2": "Marshall",
+          "70728": "",
+          "121215": "2025-01-04",
+          "148257": {
+            "originalname": "System Overview (1).pdf",
+            "filename": "file-1747155541352.pdf",
+            "mimetype": "application/pdf",
+            "size": 197043,
+            "path": "uploads\\system-2\\form-9\\file-1747155541352.pdf"
+          },
+          "210809": "VIP Tour",
+          "581995": "A0000003",
+          "734955": "DoD Washington DC",
+          "986680": "2025-01-03",
+          "userId": "67dadb88fea3d26bd2a7460e"
+        },
+        "group_id": 1746740917454,
+        "progress": "submitted",
+        "updatedAt": "2025-06-23T20:05:56.339Z",
+        "updated_by": "6851d29f945310aca81ab5be",
+        "submittedAt": "2025-05-13T16:59:01.384Z",
+        "submitted_by": "67dadb88fea3d26bd2a7460e"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859b3c08f3e129bdd356d87"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "681d26b5ee9a0de796dd1a81",
+        "system_id": 2,
+        "form_id": 9,
+        "__v": 0,
+        "approved": "",
+        "createdAt": "2025-05-08T21:48:38.860Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "display_id": "000000035",
+        "fields": {
+          "1": "Elly",
+          "2": "Beth",
+          "70728": "",
+          "121215": "2025-01-04",
+          "148257": null,
+          "210809": "VIP Tour",
+          "581995": "A0000004",
+          "734955": "DoD Washington DC",
+          "986680": "2025-01-03",
+          "userId": "67dadb88fea3d26bd2a7460e"
+        },
+        "group_id": 1746740917454,
+        "progress": "submitted",
+        "updatedAt": "2025-06-20T21:09:20.648Z",
+        "updated_by": "6851d29f945310aca81ab5be",
+        "submittedAt": "2025-05-13T16:59:01.357Z",
+        "submitted_by": "67dadb88fea3d26bd2a7460e"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859b43e8f3e129bdd356e53"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Form Submission",
+    "payload": {
+      "newProgress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "respId": "685087995ad4d87925b4ce98"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859b4678f3e129bdd356e82"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859b4998f3e129bdd356edc"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "IT User",
+      "selectedSystem": 4
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859b4bc8f3e129bdd356f3f"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Span Support User",
+      "selectedSystem": 4
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859b4c08f3e129bdd356f43"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Span Support User",
+      "selectedSystem": 4
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859b7228f3e129bdd356f47"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Span Support User",
+      "selectedSystem": 4
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859b8908f3e129bdd356f77"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859bbcd8f3e129bdd357670"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859bc2d8f3e129bdd357717"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859c0268f3e129bdd357e31"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859c0b28f3e129bdd35812b"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859c0bc8f3e129bdd35812e"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6859c1e88f3e129bdd3581c5"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685abce38b4cbd38c5c972d4"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685abd4b8b4cbd38c5c97342"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685abdcb8b4cbd38c5c9739c"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685abec88b4cbd38c5c974ba"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685abf878b4cbd38c5c9756a"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685abfc18b4cbd38c5c97666"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685abfd58b4cbd38c5c976c0"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685ac5578b4cbd38c5c9775a"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685ac6c2567daefdbad5f7ec"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685ac6f7d4252e8c9fa1fb84"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685ac877d4252e8c9fa206e3"
+    },
+    "userId": "6851d29f945310aca81ab5c7",
+    "action": "Form Submission",
+    "payload": {
+      "newProgress": "in_progress",
+      "systemId": "5",
+      "formId": "11",
+      "respId": "6859aee0e9c5180653e0045f"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685acb15d4252e8c9fa21e8d"
+    },
+    "userId": "6851d29f945310aca81ab5c7",
+    "action": "Form Submission",
+    "payload": {
+      "newProgress": "submitted",
+      "systemId": "5",
+      "formId": "11",
+      "respId": "68532acca8442b6be806df56"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685acb23d4252e8c9fa21ed2"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685acb6cd4252e8c9fa2214d"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685ad15bd4252e8c9fa230f6"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685ad1cdd4252e8c9fa23c31"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685ad1ded4252e8c9fa23eae"
+    },
+    "userId": "SynerenGit@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685ad1e9d4252e8c9fa23eb1"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685ad2add4252e8c9fa24142"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Portfolio Owner",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685ad5469c6f9d0ef60f0fe5"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685ad5a48fba2b5406000a14"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685ad729bed590407ea60776"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685ae6cadba877d0e08993c8"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685ae6fbdba877d0e0899436"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685ae7c1dba877d0e08994bb"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685aed69dba877d0e089a6ea"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685aeeb5dba877d0e089abbc"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685af9c9dba877d0e089b53b"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685afa26dba877d0e089b5e1"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685afa41dba877d0e089b6a3"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685afa68dba877d0e089b71c"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "681d26b54f185e252f0aab37",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "",
+        "createdAt": "2025-05-08T21:48:38.854Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "display_id": "000000035",
+        "fields": {
+          "1": "Tom",
+          "2": "Marshall",
+          "70728": "",
+          "121215": "2025-01-04",
+          "148257": {
+            "originalname": "System Overview (1).pdf",
+            "filename": "file-1747155541352.pdf",
+            "mimetype": "application/pdf",
+            "size": 197043,
+            "path": "uploads\\system-2\\form-9\\file-1747155541352.pdf"
+          },
+          "210809": "VIP Tour",
+          "581995": "A0000003",
+          "734955": "DoD Washington DC",
+          "986680": "2025-01-03",
+          "userId": "67dadb88fea3d26bd2a7460e"
+        },
+        "group_id": 1746740917454,
+        "progress": "submitted",
+        "updatedAt": "2025-06-24T19:19:07.432Z",
+        "updated_by": "6851d29f945310aca81ab5bf",
+        "submittedAt": "2025-05-13T16:59:01.384Z",
+        "submitted_by": "67dadb88fea3d26bd2a7460e"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685afa68dba877d0e089b720"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Group Form Approval",
+    "payload": {
+      "progress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "681d26b5ee9a0de796dd1a81",
+        "system_id": 2,
+        "form_id": 9,
+        "__v": 0,
+        "approved": "",
+        "createdAt": "2025-05-08T21:48:38.860Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "display_id": "000000035",
+        "fields": {
+          "1": "Elly",
+          "2": "Beth",
+          "70728": "",
+          "121215": "2025-01-04",
+          "148257": null,
+          "210809": "VIP Tour",
+          "581995": "A0000004",
+          "734955": "DoD Washington DC",
+          "986680": "2025-01-03",
+          "userId": "67dadb88fea3d26bd2a7460e"
+        },
+        "group_id": 1746740917454,
+        "progress": "submitted",
+        "updatedAt": "2025-06-24T19:19:07.418Z",
+        "updated_by": "6851d29f945310aca81ab5bf",
+        "submittedAt": "2025-05-13T16:59:01.357Z",
+        "submitted_by": "67dadb88fea3d26bd2a7460e"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685afb07dba877d0e089b80b"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685afc990f91976843aa5b18"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685afd040f91976843aa5c02"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685afdb50f91976843aa5c6d"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685afe010f91976843aa5cc7"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685afe900f91976843aa603e"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685afe9d0f91976843aa608d"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b0aeb0f91976843aa6175"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b0c9a0f91976843aa627f"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b0ca20f91976843aa62fd"
+    },
+    "userId": "6851d29f945310aca81ab5bf",
+    "action": "Group Form Approval",
+    "payload": {
+      "approval": "true",
+      "systemId": "2",
+      "formId": "9",
+      "currentResponse": {
+        "_id": "681d26b54f185e252f0aab37",
+        "form_id": 9,
+        "system_id": 2,
+        "__v": 0,
+        "approved": "",
+        "createdAt": "2025-05-08T21:48:38.854Z",
+        "created_by": "67dadb88fea3d26bd2a7460e",
+        "display_id": "000000035",
+        "fields": {
+          "1": "Tom",
+          "2": "Marshall",
+          "70728": "",
+          "121215": "2025-01-04",
+          "148257": {
+            "originalname": "System Overview (1).pdf",
+            "filename": "file-1747155541352.pdf",
+            "mimetype": "application/pdf",
+            "size": 197043,
+            "path": "uploads\\system-2\\form-9\\file-1747155541352.pdf"
+          },
+          "210809": "VIP Tour",
+          "581995": "A0000003",
+          "734955": "DoD Washington DC",
+          "986680": "2025-01-03",
+          "userId": "67dadb88fea3d26bd2a7460e"
+        },
+        "group_id": 1746740917454,
+        "progress": "submitted",
+        "updatedAt": "2025-06-24T20:37:34.283Z",
+        "updated_by": "6851d29f945310aca81ab5be",
+        "submittedAt": "2025-05-13T16:59:01.384Z",
+        "submitted_by": "67dadb88fea3d26bd2a7460e"
+      }
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b0e1a0f91976843aa6335"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b121f0f91976843aa6593"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Confirmation User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b14480f91976843aa691d"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b150e0f91976843aa6bda"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "IT User",
+      "selectedSystem": 4
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b15330f91976843aa6c45"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b15ba0f91976843aa71de"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b16dc0f91976843aa737f"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b16e50f91976843aa73ed"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b16ed0f91976843aa745b"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Confirmation User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b16f40f91976843aa74c9"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Admin",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b170e0f91976843aa7533"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Configuration Specialist",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b173f0f91976843aa75b9"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Admin",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b174f0f91976843aa7627"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "IT User",
+      "selectedSystem": 4
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b17570f91976843aa7692"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "SPAN Support User",
+      "selectedSystem": 4
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b17610f91976843aa76fd"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Industry Applicant",
+      "selectedSystem": 4
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b17690f91976843aa7768"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Local Admin",
+      "selectedSystem": 4
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b17740f91976843aa77d3"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Project Manager",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b177c0f91976843aa783e"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b17850f91976843aa78a9"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Portfolio Owner",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b178e0f91976843aa7914"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Admin",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b17bc0f91976843aa797f"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b17ed0f91976843aa79ed"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b18490f91976843aa7a5b"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "SPAN Support User",
+      "selectedSystem": 4
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b18820f91976843aa7ac6"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Government Lead",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b188f0f91976843aa7b15"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Portfolio Owner",
+      "selectedSystem": 5
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b1ab00f91976843aa8426"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "SPAN Support User",
+      "selectedSystem": 4
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b1b230f91976843aa8477"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b1c850f91976843aa8535"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b1cae0f91976843aa86e3"
+    },
+    "userId": "6851d29f945310aca81ab5bf",
+    "action": "PDF Search",
+    "payload": {
+      "filepath": "/uploads/system-2/form-9/file-1747674143769.jpg",
+      "searchText": "hellp",
+      "formId": "9",
+      "respId": "682b53f3d5f0e65ee8e6d29c",
+      "systemId": "2"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b1cae0f91976843aa86e5"
+    },
+    "userId": "6851d29f945310aca81ab5bf",
+    "action": "PDF Search",
+    "payload": {
+      "filepath": "/uploads/system-2/form-9/file-1747674143769.jpg",
+      "searchText": "hellp",
+      "formId": "9",
+      "respId": "682b53f3d5f0e65ee8e6d29c",
+      "systemId": "2"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b1d850f91976843aa8740"
+    },
+    "userId": "6851d29f945310aca81ab5bf",
+    "action": "PDF Search",
+    "payload": {
+      "filepath": "/uploads/system-2/form-9/file-1747674143769.jpg",
+      "searchText": "fds",
+      "formId": "9",
+      "respId": "682b53f3d5f0e65ee8e6d29c",
+      "systemId": "2"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b1d8f0f91976843aa8742"
+    },
+    "userId": "6851d29f945310aca81ab5bf",
+    "action": "PDF Search",
+    "payload": {
+      "filepath": "/uploads/system-2/form-9/file-1747674143769.jpg",
+      "searchText": "hello",
+      "formId": "9",
+      "respId": "682b53f3d5f0e65ee8e6d29c",
+      "systemId": "2"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b1e700f91976843aa8744"
+    },
+    "userId": "6851d29f945310aca81ab5bf",
+    "action": "PDF Search",
+    "payload": {
+      "filepath": "/uploads/system-2/form-9/file-1747674143769.jpg",
+      "searchText": "Hello",
+      "formId": "9",
+      "respId": "682b53f3d5f0e65ee8e6d29c",
+      "systemId": "2"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b1f240f91976843aa8a33"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Embassy User",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b1f430f91976843aa8aae"
+    },
+    "userId": "6851d29f945310aca81ab5be",
+    "action": "Request Submission",
+    "payload": {
+      "newProgress": "submitted",
+      "systemId": "2",
+      "formId": "9",
+      "respId": "68124d25b3637adde18ebf1a"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b1f4b0f91976843aa8add"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Approver",
+      "selectedSystem": 2
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b1f540f91976843aa8b57"
+    },
+    "userId": "6851d29f945310aca81ab5bf",
+    "action": "PDF Search",
+    "payload": {
+      "filepath": "/uploads/system-2/form-9/30e45825d31f4c5637b76cbc6d523f7c-file-1750802242993.webp.enc",
+      "searchText": "422",
+      "formId": "9",
+      "respId": "68124d25b3637adde18ebf1a",
+      "systemId": "2"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b1ffc0f91976843aa8b64"
+    },
+    "userId": "6851d29f945310aca81ab5bf",
+    "action": "PDF Search",
+    "payload": {
+      "filepath": "/uploads/system-2/form-9/30e45825d31f4c5637b76cbc6d523f7c-file-1750802242993.webp.enc",
+      "searchText": "422",
+      "formId": "9",
+      "respId": "68124d25b3637adde18ebf1a",
+      "systemId": "2"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b216c0f91976843aa8e26"
+    },
+    "userId": "6851d29f945310aca81ab5bf",
+    "action": "PDF Search",
+    "payload": {
+      "filepath": "/uploads/system-2/form-9/30e45825d31f4c5637b76cbc6d523f7c-file-1750802242993.webp.enc",
+      "searchText": "422",
+      "formId": "9",
+      "respId": "68124d25b3637adde18ebf1a",
+      "systemId": "2"
+    },
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "685b21b40f91976843aa8e55"
+    },
+    "userId": "sgupta@syneren.com",
+    "action": "Tried Logging",
+    "payload": {
+      "selectedRole": "Global Admin",
+      "selectedSystem": 0
+    },
+    "createdAt": {},
+    "__v": 0
+  }
+]

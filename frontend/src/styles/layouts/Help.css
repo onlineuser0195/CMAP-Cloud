@@ -1,0 +1,19 @@
+ /* Only for what Bootstrap doesn't cover */
+ .cursor-pointer {
+    cursor: pointer;
+  }
+  
+  .animate-fade-in {
+    animation: fadeIn 0.3s ease-out;
+  }
+  
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  
+  /* If you need to override any Bootstrap styles */
+  .search-input {
+    background-color: white !important;
+    color: #333 !important;
+  }

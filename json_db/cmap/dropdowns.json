@@ -1,0 +1,154 @@
+[
+  {
+    "_id": {
+      "$oid": "67d88591912535c3d9f8efaf"
+    },
+    "label": "Country",
+    "options": [
+      "USA",
+      "Canada",
+      "UK",
+      "Australia"
+    ],
+    "field_id": 5,
+    "timestamp": "2024-03-17T12:20:00Z",
+    "notEditableBy": null
+  },
+  {
+    "_id": {
+      "$oid": "67d88591912535c3d9f8efb0"
+    },
+    "label": "Gender",
+    "options": [
+      "Male",
+      "Female",
+      "Other"
+    ],
+    "field_id": 6,
+    "timestamp": "2024-03-17T12:25:00Z",
+    "notEditableBy": null
+  },
+  {
+    "_id": {
+      "$oid": "67eae98932180559a2e9c5b0"
+    },
+    "label": "Contractor",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "field_id": 740140,
+    "timestamp": {},
+    "__v": 1,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "required": false
+  },
+  {
+    "_id": {
+      "$oid": "680029e7e9301ca97c242446"
+    },
+    "label": "Facility Type",
+    "options": [
+      "DHS Facility",
+      "DoD Facility",
+      "DCSA International Visits"
+    ],
+    "field_id": 91348,
+    "timestamp": {},
+    "__v": 0,
+    "notEditableBy": null
+  },
+  {
+    "_id": {
+      "$oid": "68002a23e9301ca97c242453"
+    },
+    "label": "Facility Location",
+    "options": [
+      "DoD Washington DC",
+      "DCSA Washington DC",
+      "Fort Myer",
+      "Fort Carson",
+      "Fort Huachuca",
+      "Redstone Arsenal",
+      "Eielson Air Force Base",
+      "Ramstein Air Base",
+      "Davis-Monthan Air Force Base",
+      "Naval Air Station Lemoore",
+      "Naval Base San Diego",
+      "Marine Corps Air Station Miramar",
+      "Fort Belvoir",
+      "Joint Base San Antonio Lackland",
+      "Joint Base San Antonio Fort Sam Houston",
+      "Joint Base San Antonio Randolph",
+      "Joint Base San Antonio Camp Bullis"
+    ],
+    "field_id": 734955,
+    "timestamp": {},
+    "__v": 2,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "required": true
+  },
+  {
+    "_id": {
+      "$oid": "6848938b6e319643aee71928"
+    },
+    "label": "Project Type",
+    "options": [
+      "PCB Design",
+      "APP Development",
+      "Maintenance",
+      "IT Configuration",
+      "Network System"
+    ],
+    "field_id": 778866,
+    "required": true,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "684898b46e319643aee71cd6"
+    },
+    "label": "Government Lead",
+    "options": [
+      "Lead 1",
+      "Lead 2",
+      "Lead 3",
+      "Lead 4",
+      "Lead 5"
+    ],
+    "field_id": 76181,
+    "required": true,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684b2b5a6e319643aee84bf9"
+    },
+    "label": "Project Status",
+    "options": [
+      "Not Started",
+      "In Progress",
+      "On Hold",
+      "Completed"
+    ],
+    "field_id": 545450,
+    "required": true,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  }
+]

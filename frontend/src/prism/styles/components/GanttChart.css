@@ -1,0 +1,88 @@
+#gantt {
+    padding: 20px;
+    background: #fff;
+    width: 96%;
+    box-sizing: border-box;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#gantt svg {
+    overflow: visible;
+}
+
+/* Completed - green */
+#gantt .bar-wrapper.planned .bar,
+#gantt .bar-wrapper.planned .bar-progress,
+#gantt .bar-group.planned .bar,
+#gantt .bar-group.planned .bar-progress {
+    fill: #0288D1 !important;
+    stroke: #0288D1 !important;
+}
+
+/* In Progress - grey */
+#gantt .bar-wrapper.actual-in-progress .bar,
+#gantt .bar-wrapper.actual-in-progress .bar-progress,
+#gantt .bar-group.actual-in-progress .bar,
+#gantt .bar-group.actual-in-progress .bar-progress {
+    fill: #f09f0a !important; /* soft grey */
+    stroke: #f09f0a !important;
+}
+
+/* In Progress - grey */
+#gantt .bar-wrapper.actual-completed .bar,
+#gantt .bar-wrapper.actual-completed .bar-progress,
+#gantt .bar-group.actual-completed .bar,
+#gantt .bar-group.actual-completed .bar-progress {
+    fill: #f09f0a !important; /* soft grey */
+    stroke: #f09f0a !important;
+}
+
+/* Optional: white text */
+#gantt .bar-wrapper.planned .bar-label,
+#gantt .bar-group.actual-completed .bar-label,
+#gantt .bar-group.actual-in-progress .bar-label {
+    fill: #fff !important;
+}
+
+.gantt-popup {
+    padding: 12px !important;
+    font-size: 14px !important;
+}
+
+.popup-title {
+    font-weight: bold;
+    margin-bottom: 8px;
+    color: #333;
+}
+
+.popup-details {
+    line-height: 1.4;
+}
+
+.status-badge {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 10px;
+    font-size: 10px;
+    font-weight: bold;
+    color: white;
+    margin-left: 1px;
+}
+
+.status-completed {
+    background-color: #f09f0a;
+}
+
+.status-in-progress {
+    background-color: #f09f0a;
+}
+
+.status-not-started {
+    background-color: #f09f0a;
+}
+
+.status-planned {
+    background-color: #0288D1;
+}

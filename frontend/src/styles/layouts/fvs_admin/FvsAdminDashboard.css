@@ -1,0 +1,11 @@
+.sort-icon span {
+    font-size: 0.55rem;
+    line-height: 1;
+    color: white;
+}
+th .sort-icon span {
+    color: #bbb;
+}
+th.active-sort .sort-icon span {
+    color: white;
+}

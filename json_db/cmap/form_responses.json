@@ -1,0 +1,2006 @@
+[
+  {
+    "_id": {
+      "$oid": "67e42aba0c18282d527eb862"
+    },
+    "form_id": 4,
+    "__v": 0,
+    "createdAt": {},
+    "fields": {
+      "1": "G",
+      "5": "USA"
+    },
+    "progress": "submitted",
+    "updatedAt": {},
+    "approved": "true",
+    "system_id": 1,
+    "display_id": "000000001",
+    "submittedAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "approved_by": {
+      "$oid": "67dadb9efea3d26bd2a74611"
+    },
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e44dde0c18282d527eb863"
+    },
+    "form_id": 3,
+    "__v": 0,
+    "createdAt": {},
+    "fields": {
+      "6": "Male",
+      "7": "Free",
+      "10": [
+        "English",
+        "Spanish"
+      ]
+    },
+    "progress": "submitted",
+    "updatedAt": {},
+    "approved": "false",
+    "comment": "Approved.",
+    "system_id": 2,
+    "display_id": "000000002",
+    "submittedAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "approved_by": {
+      "$oid": "67dadb9efea3d26bd2a74611"
+    },
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e5b4280c18282d527eb864"
+    },
+    "form_id": 1,
+    "__v": 0,
+    "createdAt": {},
+    "fields": {},
+    "progress": "not_started",
+    "updatedAt": {},
+    "approved": "",
+    "system_id": 3,
+    "display_id": "000000003",
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67e6ee1e0c18282d527eb865"
+    },
+    "form_id": 2,
+    "__v": 0,
+    "approved": "",
+    "createdAt": {},
+    "fields": {},
+    "progress": "not_started",
+    "updatedAt": {},
+    "system_id": 2,
+    "display_id": "000000004",
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67eaec1e0c18282d527eb866"
+    },
+    "form_id": 5,
+    "__v": 0,
+    "approved": "",
+    "createdAt": {},
+    "fields": {
+      "53808": [],
+      "100157": "0000000000",
+      "191425": [],
+      "208706": "",
+      "284836": "",
+      "325501": [
+        "Class Account"
+      ],
+      "403220": "",
+      "405079": "",
+      "418075": [],
+      "463674": "",
+      "487306": [],
+      "494643": "",
+      "500814": "",
+      "530515": "",
+      "539633": "",
+      "548125": "",
+      "559924": "",
+      "567518": "",
+      "575521": "",
+      "603123": "",
+      "650161": "Mr.",
+      "689995": "",
+      "740140": "",
+      "740971": "",
+      "811148": "",
+      "837743": "",
+      "884506": "",
+      "891856": "",
+      "909842": "",
+      "925625": "Smith, James",
+      "942931": [],
+      "946686": ""
+    },
+    "progress": "in_progress",
+    "updatedAt": {},
+    "system_id": 2,
+    "display_id": "000000005",
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "67ef09ee0c18282d527eb869"
+    },
+    "form_id": 4,
+    "system_id": 3,
+    "__v": 0,
+    "approved": "",
+    "createdAt": {},
+    "fields": {},
+    "progress": "not_started",
+    "updatedAt": {},
+    "display_id": "000000006",
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "68012e5ede5c7ff161be2c38"
+    },
+    "system_id": 2,
+    "form_id": 9,
+    "__v": 0,
+    "approved": "true",
+    "createdAt": {},
+    "fields": {
+      "1": "Jamie",
+      "2": "Mark",
+      "121215": "2025-05-18",
+      "148257": {
+        "originalname": "ZAIN Flyer.pdf",
+        "filename": "2fd60b337f34de4049804040f97ce39d",
+        "mimetype": "application/pdf",
+        "size": 337890,
+        "path": "uploads\\2fd60b337f34de4049804040f97ce39d"
+      },
+      "581995": "A2039444",
+      "965053": "Fort Myer",
+      "986680": "2025-05-01"
+    },
+    "progress": "submitted",
+    "updatedAt": {},
+    "comment": "Approved.",
+    "display_id": "000000007",
+    "submittedAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "approved_by": {
+      "$oid": "67dadb9efea3d26bd2a74611"
+    },
+    "updated_by": {
+      "$oid": "67dadb9efea3d26bd2a74611"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6802a08778fb6a202701f8a4"
+    },
+    "form_id": 9,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "",
+    "createdAt": {},
+    "fields": {
+      "1": "Jones",
+      "2": "Smith",
+      "70728": "",
+      "121215": "",
+      "148257": null,
+      "210809": "",
+      "581995": "",
+      "734955": "",
+      "986680": "",
+      "userId": "67dadb88fea3d26bd2a7460e"
+    },
+    "progress": "in_progress",
+    "updatedAt": {},
+    "display_id": "000000008",
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6802ad3202a282c35ac454a6"
+    },
+    "system_id": 2,
+    "form_id": 5,
+    "__v": 0,
+    "approved": "",
+    "createdAt": {},
+    "fields": {
+      "9": [],
+      "53808": [],
+      "100157": "",
+      "191425": [],
+      "208706": "",
+      "284836": "",
+      "325501": [],
+      "403220": "",
+      "405079": "",
+      "418075": [],
+      "463674": "",
+      "494643": "",
+      "500814": "",
+      "530515": "",
+      "539633": "",
+      "548125": "",
+      "559924": "",
+      "567518": "",
+      "575521": "",
+      "603123": "",
+      "650161": "",
+      "689995": "",
+      "740140": "",
+      "740971": "",
+      "811148": "",
+      "837743": "",
+      "884506": "",
+      "891856": "",
+      "909842": "",
+      "925625": "",
+      "942931": [],
+      "946686": ""
+    },
+    "progress": "in_progress",
+    "updatedAt": {},
+    "display_id": "000000009",
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6807ffce5b4a603c61e78685"
+    },
+    "form_id": 10,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "",
+    "createdAt": {},
+    "fields": {
+      "0": "",
+      "53808": [],
+      "78608": "",
+      "124579": "",
+      "171849": "",
+      "191425": [],
+      "208706": "",
+      "218150": "",
+      "224166": "",
+      "284836": "",
+      "325501": [],
+      "357024": "",
+      "399919": "",
+      "403220": "",
+      "405079": "",
+      "418075": [],
+      "441101": "",
+      "487306": [],
+      "499850": "",
+      "500814": "",
+      "559924": "",
+      "575521": "",
+      "584499": "",
+      "623907": "",
+      "650161": "Mr.",
+      "660828": "",
+      "689995": "",
+      "709326": "",
+      "740140": "",
+      "740971": "",
+      "774700": "",
+      "810506": "1234567890",
+      "837743": "",
+      "909842": "",
+      "925625": "Mark, John",
+      "942931": [],
+      "946686": "",
+      "957593": "",
+      "965053": "",
+      "981868": ""
+    },
+    "progress": "in_progress",
+    "updatedAt": {},
+    "display_id": "000000010",
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "680a62f555dae80ff05b345e"
+    },
+    "form_id": 9,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "true",
+    "createdAt": {},
+    "fields": {
+      "1": "Arthur",
+      "2": "Hood",
+      "121215": "2025-05-15",
+      "148257": null,
+      "581995": "A9539504",
+      "734955": "Fort Myer",
+      "986680": "2025-05-01"
+    },
+    "group_id": 1745511157972,
+    "progress": "submitted",
+    "updatedAt": {},
+    "comment": "This one Approved",
+    "display_id": "000000011",
+    "submittedAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "approved_by": {
+      "$oid": "67dadb9efea3d26bd2a74611"
+    },
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "680a62f688a5e34d2100bf8a"
+    },
+    "form_id": 9,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "false",
+    "createdAt": {},
+    "fields": {
+      "1": "Mcquire",
+      "2": "Venus",
+      "121215": "2025-05-15",
+      "148257": null,
+      "581995": "S4940945",
+      "734955": "DoD Washington DC",
+      "986680": "2025-05-01"
+    },
+    "group_id": 1745511157972,
+    "progress": "submitted",
+    "updatedAt": {},
+    "comment": "Disapproved",
+    "display_id": "000000011",
+    "submittedAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "approved_by": {
+      "$oid": "67dadb9efea3d26bd2a74611"
+    },
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "680fbf341479fd79b00346b4"
+    },
+    "form_id": 9,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "true",
+    "createdAt": {},
+    "fields": {
+      "1": "Mark",
+      "2": "Cole",
+      "121215": "2025-05-05",
+      "148257": null,
+      "210809": "Visit Request",
+      "581995": "A034040",
+      "734955": "Fort Myer",
+      "986680": "2025-05-01"
+    },
+    "progress": "submitted",
+    "updatedAt": {},
+    "comment": "Approved.",
+    "display_id": "000000012",
+    "submittedAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "approved_by": {
+      "$oid": "67dadb9efea3d26bd2a74611"
+    },
+    "updated_by": {
+      "$oid": "6851d29f945310aca81ab5bf"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "680fc055b3ba66a6af78c1ac"
+    },
+    "form_id": 9,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "",
+    "createdAt": {},
+    "fields": {
+      "1": "Jameson",
+      "2": "Mark",
+      "121215": "2025-05-13",
+      "148257": {
+        "originalname": "CMAP-FVS Design Flow Document.pdf",
+        "filename": "ba7f30fa839e2ae08216f4c8971f741a",
+        "mimetype": "application/pdf",
+        "size": 189528,
+        "path": "uploads\\ba7f30fa839e2ae08216f4c8971f741a"
+      },
+      "210809": "Visit Tour",
+      "581995": "A0439323",
+      "734955": "Fort Myer",
+      "986680": "2025-05-01"
+    },
+    "progress": "submitted",
+    "updatedAt": {},
+    "display_id": "000000014",
+    "submittedAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "680ff0143036cc8122f89dc5"
+    },
+    "form_id": 9,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "true",
+    "createdAt": {},
+    "fields": {
+      "1": "Jamie",
+      "2": "Mark",
+      "121215": "2025-04-30",
+      "148257": null,
+      "210809": "Visa",
+      "581995": "A043934",
+      "734955": "Fort Myer",
+      "986680": "2025-04-28"
+    },
+    "progress": "submitted",
+    "updatedAt": {},
+    "comment": "Approved.",
+    "display_id": "000000015",
+    "submittedAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "approved_by": {
+      "$oid": "67dadb9efea3d26bd2a74611"
+    },
+    "updated_by": {
+      "$oid": "6851d29f945310aca81ab5bf"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "680ff0d0c666b28105e9b534"
+    },
+    "system_id": 2,
+    "form_id": 9,
+    "__v": 0,
+    "approved": "true",
+    "createdAt": {},
+    "fields": {
+      "1": "Tom",
+      "2": "Hank",
+      "121215": "2025-05-04",
+      "148257": null,
+      "210809": "Tour",
+      "581995": "A9493044",
+      "734955": "Fort Myer",
+      "986680": "2025-05-03"
+    },
+    "group_id": 1745875152394,
+    "progress": "submitted",
+    "updatedAt": {},
+    "display_id": "000000016",
+    "submittedAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "approved_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "comment": ""
+  },
+  {
+    "_id": {
+      "$oid": "680ff0d04f0ff6b102348515"
+    },
+    "system_id": 2,
+    "form_id": 9,
+    "__v": 0,
+    "approved": "true",
+    "createdAt": {},
+    "fields": {
+      "1": "Archie",
+      "2": "Noa",
+      "121215": "2025-05-04",
+      "148257": null,
+      "210809": "Tour",
+      "581995": "T4940443",
+      "734955": "Fort Myer",
+      "986680": "2025-05-03"
+    },
+    "group_id": 1745875152394,
+    "progress": "submitted",
+    "updatedAt": {},
+    "comment": "",
+    "display_id": "000000016",
+    "submittedAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "approved_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "68111cb4096e424a69e20c76"
+    },
+    "form_id": 9,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "",
+    "createdAt": {},
+    "fields": {},
+    "progress": "not_started",
+    "updatedAt": {},
+    "display_id": "000000017",
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "68113d48331294332d2bd98c"
+    },
+    "form_id": 9,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "",
+    "createdAt": {},
+    "fields": {},
+    "progress": "not_started",
+    "updatedAt": {},
+    "display_id": "000000018",
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "681140334e5dcd052ef2639b"
+    },
+    "form_id": 9,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "true",
+    "createdAt": {},
+    "fields": {
+      "1": "Joseph",
+      "2": "Smith",
+      "70728": "",
+      "121215": "2025-05-07",
+      "148257": {
+        "originalname": "System Overview (1).pdf",
+        "filename": "2d4271b8d8fdff56ae2f5838e27f602f",
+        "mimetype": "application/pdf",
+        "size": 197043,
+        "path": "uploads\\2d4271b8d8fdff56ae2f5838e27f602f"
+      },
+      "210809": "VIP Tour",
+      "581995": "S904330",
+      "734955": "Fort Myer",
+      "986680": "2025-04-28"
+    },
+    "progress": "submitted",
+    "updatedAt": {},
+    "comment": "Upload Passport.",
+    "display_id": "000000019",
+    "submittedAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "approved_by": {
+      "$oid": "67dadb9efea3d26bd2a74611"
+    },
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6811412418c98091574f4e50"
+    },
+    "form_id": 9,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "true",
+    "createdAt": {},
+    "fields": {
+      "1": "Hank",
+      "2": "Mars",
+      "121215": "2025-05-20",
+      "148257": {
+        "originalname": "System Overview.pdf",
+        "filename": "70cd5e404d27db074368529ea5dfe865",
+        "mimetype": "application/pdf",
+        "size": 197043,
+        "path": "uploads\\70cd5e404d27db074368529ea5dfe865"
+      },
+      "210809": "Meeting",
+      "581995": "M483039",
+      "734955": "Fort Myer",
+      "986680": "2025-05-15"
+    },
+    "group_id": 1745961252814,
+    "progress": "submitted",
+    "updatedAt": {},
+    "comment": "Approved.",
+    "display_id": "000000020",
+    "submittedAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "approved_by": {
+      "$oid": "67dadb9efea3d26bd2a74611"
+    },
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6811412467e06d59a7cbb082"
+    },
+    "form_id": 9,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "true",
+    "createdAt": {},
+    "fields": {
+      "1": "Ariel",
+      "2": "Yolansky",
+      "121215": "2025-05-20",
+      "148257": {
+        "originalname": "INSTRUCTIONS FOR VISIT REQUEST FORM.pdf",
+        "filename": "6111304b758dacc76887b3e138c36e01",
+        "mimetype": "application/pdf",
+        "size": 33424,
+        "path": "uploads\\6111304b758dacc76887b3e138c36e01"
+      },
+      "210809": "Meeting",
+      "581995": "F5839033",
+      "734955": "Fort Myer",
+      "986680": "2025-05-15"
+    },
+    "group_id": 1745961252814,
+    "progress": "submitted",
+    "updatedAt": {},
+    "comment": "Approved.",
+    "display_id": "000000020",
+    "submittedAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "approved_by": {
+      "$oid": "67dadb9efea3d26bd2a74611"
+    },
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "68114484dfd042e752d01cd0"
+    },
+    "form_id": 9,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "",
+    "createdAt": {},
+    "fields": {},
+    "progress": "not_started",
+    "updatedAt": {},
+    "display_id": "000000021",
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "681146e42004cdf294e9a9c0"
+    },
+    "form_id": 9,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "",
+    "createdAt": {},
+    "fields": {},
+    "progress": "not_started",
+    "updatedAt": {},
+    "display_id": "000000022",
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "681237de5195a6d0ed2bfb92"
+    },
+    "form_id": 9,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "true",
+    "createdAt": {},
+    "fields": {
+      "1": "Molly",
+      "2": "Tsang",
+      "121215": "2025-05-07",
+      "148257": null,
+      "210809": "Tour",
+      "581995": "A555939",
+      "734955": "Fort Myer",
+      "986680": "2025-04-28"
+    },
+    "progress": "submitted",
+    "updatedAt": {},
+    "comment": "Approved.",
+    "display_id": "000000023",
+    "submittedAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "approved_by": {
+      "$oid": "67dadb9efea3d26bd2a74611"
+    },
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6812391af3a60bb3afed40c2"
+    },
+    "form_id": 9,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "true",
+    "createdAt": {},
+    "fields": {
+      "1": "",
+      "2": "",
+      "121215": "",
+      "148257": null,
+      "210809": "",
+      "581995": "",
+      "734955": "",
+      "986680": ""
+    },
+    "group_id": 1746024730910,
+    "progress": "in_progress",
+    "updatedAt": {},
+    "comment": "",
+    "display_id": "000000024",
+    "submittedAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "approved_by": {
+      "$oid": "67dadb9efea3d26bd2a74611"
+    },
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6812391a9180a3db602a846a"
+    },
+    "system_id": 2,
+    "form_id": 9,
+    "__v": 0,
+    "approved": "true",
+    "createdAt": {},
+    "fields": {
+      "1": "El",
+      "2": "By",
+      "121215": "2025-04-04",
+      "148257": null,
+      "210809": "tour",
+      "581995": "K9202943",
+      "734955": "Fort Myer",
+      "986680": "2025-04-03"
+    },
+    "group_id": 1746024730910,
+    "progress": "in_progress",
+    "updatedAt": {},
+    "comment": "",
+    "display_id": "000000024",
+    "submittedAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "approved_by": {
+      "$oid": "67dadb9efea3d26bd2a74611"
+    },
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "681239e5f972670d12a155c5"
+    },
+    "form_id": 9,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "",
+    "createdAt": {},
+    "fields": {
+      "1": "Jill",
+      "2": "",
+      "70728": "",
+      "121215": "",
+      "148257": null,
+      "210809": "",
+      "581995": "",
+      "734955": "",
+      "986680": "",
+      "userId": "67dadb88fea3d26bd2a7460e"
+    },
+    "progress": "in_progress",
+    "updatedAt": {},
+    "display_id": "000000025",
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "68123c1a9a3b289703a03618"
+    },
+    "form_id": 9,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "true",
+    "createdAt": {},
+    "fields": {
+      "1": "Tonner",
+      "2": "Marshall",
+      "70728": "N.",
+      "121215": "2025-05-04",
+      "148257": {
+        "originalname": "System Overview (2).pdf",
+        "filename": "file-1746046122196.pdf",
+        "mimetype": "application/pdf",
+        "size": 197043,
+        "path": "uploads\\system-2\\form-9\\file-1746046122196.pdf"
+      },
+      "210809": "VIP Tour",
+      "581995": "A5039944",
+      "734955": "Fort Myer",
+      "986680": "2025-05-03"
+    },
+    "group_id": 1746025498723,
+    "progress": "submitted",
+    "updatedAt": {},
+    "display_id": "000000026",
+    "comment": "NO!",
+    "submittedAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "approved_by": {
+      "$oid": "67dadb9efea3d26bd2a74611"
+    },
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "68123c1adeb1a9e2d485f1f3"
+    },
+    "form_id": 9,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "true",
+    "createdAt": {},
+    "fields": {
+      "1": "Eliza",
+      "2": "Ian",
+      "70728": "",
+      "121215": "2025-05-04",
+      "148257": {
+        "originalname": "System Overview (2).pdf",
+        "filename": "file-1746048063654.pdf",
+        "mimetype": "application/pdf",
+        "size": 197043,
+        "path": "uploads\\system-2\\form-9\\file-1746048063654.pdf"
+      },
+      "210809": "VIP Tour",
+      "581995": "G4474939",
+      "734955": "Fort Myer",
+      "986680": "2025-05-03"
+    },
+    "group_id": 1746025498723,
+    "progress": "submitted",
+    "updatedAt": {},
+    "display_id": "000000026",
+    "comment": "Nope!",
+    "submittedAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "approved_by": {
+      "$oid": "67dadb9efea3d26bd2a74611"
+    },
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6812414ed80c6a3652facf83"
+    },
+    "form_id": 9,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "true",
+    "createdAt": {},
+    "fields": {
+      "1": "Tomie",
+      "2": "Arshall",
+      "121215": "2025-05-18",
+      "148257": null,
+      "210809": "VIP Tour",
+      "581995": "K3944994",
+      "734955": "Fort Myer",
+      "986680": "2025-05-12"
+    },
+    "group_id": 1746026830809,
+    "progress": "submitted",
+    "updatedAt": {},
+    "comment": "",
+    "display_id": "000000027",
+    "submittedAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "approved_by": {
+      "$oid": "67dadb9efea3d26bd2a74611"
+    },
+    "updated_by": {
+      "$oid": "6851d29f945310aca81ab5bf"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6812414e4bddf135ce3825cd"
+    },
+    "form_id": 9,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "true",
+    "createdAt": {},
+    "fields": {
+      "1": "Eliza",
+      "2": "Beth",
+      "121215": "2025-05-18",
+      "148257": null,
+      "210809": "VIP Tour",
+      "581995": "S2020424",
+      "734955": "Fort Myer",
+      "986680": "2025-05-12"
+    },
+    "group_id": 1746026830809,
+    "progress": "submitted",
+    "updatedAt": {},
+    "comment": "",
+    "display_id": "000000027",
+    "submittedAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "approved_by": {
+      "$oid": "67dadb9efea3d26bd2a74611"
+    },
+    "updated_by": {
+      "$oid": "6851d29f945310aca81ab5bf"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "681242a082ab49ade9d84dc5"
+    },
+    "system_id": 2,
+    "form_id": 9,
+    "__v": 0,
+    "approved": "false",
+    "createdAt": {},
+    "fields": {
+      "1": "Haner",
+      "2": "Marshall",
+      "121215": "2025-05-12",
+      "148257": null,
+      "210809": "VIP Tour",
+      "581995": "A9403034",
+      "734955": "Fort Myer",
+      "986680": "2025-05-03"
+    },
+    "group_id": 1746027168269,
+    "progress": "submitted",
+    "updatedAt": {},
+    "comment": "",
+    "display_id": "000000028",
+    "submittedAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "approved_by": {
+      "$oid": "67dadb9efea3d26bd2a74611"
+    },
+    "updated_by": {
+      "$oid": "67dadb9efea3d26bd2a74611"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "681242a034ff461f666ac77e"
+    },
+    "system_id": 2,
+    "form_id": 9,
+    "__v": 0,
+    "approved": "false",
+    "createdAt": {},
+    "fields": {
+      "1": "Archer",
+      "2": "Beth",
+      "121215": "2025-05-12",
+      "148257": null,
+      "210809": "VIP Tour",
+      "581995": "A0000329",
+      "734955": "Fort Myer",
+      "986680": "2025-05-03"
+    },
+    "group_id": 1746027168269,
+    "progress": "submitted",
+    "updatedAt": {},
+    "comment": "",
+    "display_id": "000000028",
+    "submittedAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "approved_by": {
+      "$oid": "67dadb9efea3d26bd2a74611"
+    },
+    "updated_by": {
+      "$oid": "6851d29f945310aca81ab5be"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "68124d25b3637adde18ebf1a"
+    },
+    "system_id": 2,
+    "form_id": 9,
+    "__v": 0,
+    "approved": "",
+    "createdAt": {},
+    "fields": {
+      "1": "Ken",
+      "2": "Cap",
+      "70728": "N.",
+      "121215": "2025-05-07",
+      "148257": {
+        "originalname": "USA-Passport.webp",
+        "filename": "30e45825d31f4c5637b76cbc6d523f7c-file-1750802242993.webp.enc",
+        "mimetype": "image/webp",
+        "size": 79392,
+        "path": "uploads\\system-2\\form-9\\30e45825d31f4c5637b76cbc6d523f7c-file-1750802242993.webp.enc",
+        "iv": "30e45825d31f4c5637b76cbc6d523f7c"
+      },
+      "210809": "Tour",
+      "581995": "A494030",
+      "734955": "Fort Myer",
+      "986680": "2025-04-21",
+      "userId": "6851d29f945310aca81ab5be"
+    },
+    "progress": "submitted",
+    "updatedAt": {},
+    "display_id": "000000029",
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "updated_by": {
+      "$oid": "6851d29f945310aca81ab5bf"
+    },
+    "submittedAt": {},
+    "submitted_by": {
+      "$oid": "6851d29f945310aca81ab5be"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "681266d8bf39aa89de7f0210"
+    },
+    "form_id": 9,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "",
+    "createdAt": {},
+    "fields": {
+      "1": "Sean",
+      "2": "Warn",
+      "70728": "N.",
+      "121215": "2025-05-02",
+      "148257": {
+        "originalname": "System Overview.pdf",
+        "filename": "file-1746044494389.pdf",
+        "mimetype": "application/pdf",
+        "size": 197043,
+        "path": "uploads\\system-2\\form-9\\file-1746044494389.pdf"
+      },
+      "210809": "Tour",
+      "581995": "S4832022",
+      "734955": "Fort Belvoir",
+      "986680": "2025-04-28",
+      "userId": "67dadb88fea3d26bd2a7460e"
+    },
+    "progress": "in_progress",
+    "updatedAt": {},
+    "display_id": "000000030",
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "approved_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "comment": ""
+  },
+  {
+    "_id": {
+      "$oid": "681a43117ab28b2cd5fae4cc"
+    },
+    "display_id": "000000031",
+    "form_id": 9,
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "system_id": 2,
+    "__v": 0,
+    "approved": "false",
+    "createdAt": {},
+    "fields": {
+      "1": "Mike",
+      "2": "Son",
+      "70728": "N.",
+      "121215": "2025-05-08",
+      "210809": "Tour",
+      "581995": "A9403020",
+      "734955": "Fort Belvoir",
+      "986680": "2025-05-05",
+      "userId": "67dadb88fea3d26bd2a7460e"
+    },
+    "progress": "in_progress",
+    "updatedAt": {},
+    "updated_by": {
+      "$oid": "67dadb9efea3d26bd2a74611"
+    },
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "approved_by": {
+      "$oid": "67dadb9efea3d26bd2a74611"
+    },
+    "comment": "No",
+    "submittedAt": {}
+  },
+  {
+    "_id": {
+      "$oid": "681a64cdc2a2f32373186354"
+    },
+    "system_id": 2,
+    "display_id": "000000032",
+    "form_id": 9,
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "__v": 0,
+    "approved": "",
+    "createdAt": {},
+    "fields": {},
+    "progress": "not_started",
+    "updatedAt": {},
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "681bd0189e097eda6456e4c0"
+    },
+    "system_id": 2,
+    "form_id": 9,
+    "__v": 0,
+    "approved": "",
+    "createdAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "display_id": "000000033",
+    "fields": {},
+    "progress": "not_started",
+    "updatedAt": {},
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "681d17f968f326cfac39fa62"
+    },
+    "form_id": 9,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "true",
+    "createdAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "display_id": "000000034",
+    "fields": {
+      "1": "Jack",
+      "2": "Jones",
+      "70728": "",
+      "121215": "2025-05-16",
+      "148257": null,
+      "210809": "Tour",
+      "581995": "S2040243",
+      "734955": "Fort Myer",
+      "986680": "2025-05-07",
+      "userId": "67dadb88fea3d26bd2a7460e"
+    },
+    "progress": "submitted",
+    "updatedAt": {},
+    "updated_by": {
+      "$oid": "6851d29f945310aca81ab5bf"
+    },
+    "submittedAt": {},
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "approved_by": {
+      "$oid": "67dadb9efea3d26bd2a74611"
+    },
+    "comment": "Approved."
+  },
+  {
+    "_id": {
+      "$oid": "681d26b54f185e252f0aab37"
+    },
+    "form_id": 9,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "true",
+    "createdAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "display_id": "000000035",
+    "fields": {
+      "1": "Tom",
+      "2": "Marshall",
+      "70728": "",
+      "121215": "2025-01-04",
+      "148257": {
+        "originalname": "System Overview (1).pdf",
+        "filename": "file-1747155541352.pdf",
+        "mimetype": "application/pdf",
+        "size": 197043,
+        "path": "uploads\\system-2\\form-9\\file-1747155541352.pdf"
+      },
+      "210809": "VIP Tour",
+      "581995": "A0000003",
+      "734955": "DoD Washington DC",
+      "986680": "2025-01-03",
+      "userId": "67dadb88fea3d26bd2a7460e"
+    },
+    "group_id": 1746740917454,
+    "progress": "submitted",
+    "updatedAt": {},
+    "updated_by": {
+      "$oid": "6851d29f945310aca81ab5bf"
+    },
+    "submittedAt": {},
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "approved_by": {
+      "$oid": "6851d29f945310aca81ab5bf"
+    },
+    "comment": ""
+  },
+  {
+    "_id": {
+      "$oid": "681d26b5ee9a0de796dd1a81"
+    },
+    "system_id": 2,
+    "form_id": 9,
+    "__v": 0,
+    "approved": "true",
+    "createdAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "display_id": "000000035",
+    "fields": {
+      "1": "Elly",
+      "2": "Beth",
+      "70728": "",
+      "121215": "2025-01-04",
+      "148257": null,
+      "210809": "VIP Tour",
+      "581995": "A0000004",
+      "734955": "DoD Washington DC",
+      "986680": "2025-01-03",
+      "userId": "67dadb88fea3d26bd2a7460e"
+    },
+    "group_id": 1746740917454,
+    "progress": "submitted",
+    "updatedAt": {},
+    "updated_by": {
+      "$oid": "6851d29f945310aca81ab5bf"
+    },
+    "submittedAt": {},
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "approved_by": {
+      "$oid": "6851d29f945310aca81ab5bf"
+    },
+    "comment": ""
+  },
+  {
+    "_id": {
+      "$oid": "681d270307ed936b1ccd3f33"
+    },
+    "form_id": 9,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "",
+    "createdAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "display_id": "000000036",
+    "fields": {
+      "1": "Jack",
+      "2": "Jones",
+      "70728": "",
+      "121215": "2025-05-12",
+      "148257": {
+        "originalname": "Untitled design.pdf",
+        "filename": "file-1746741025342.pdf",
+        "mimetype": "application/pdf",
+        "size": 141185,
+        "path": "uploads\\system-2\\form-9\\file-1746741025342.pdf"
+      },
+      "210809": "Tour",
+      "581995": "S2040243",
+      "734955": "Fort Myer",
+      "986680": "2025-05-07",
+      "userId": "67dadb88fea3d26bd2a7460e"
+    },
+    "progress": "submitted",
+    "updatedAt": {},
+    "updated_by": {
+      "$oid": "6851d29f945310aca81ab5bf"
+    },
+    "submittedAt": {},
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "682b53f3d5f0e65ee8e6d29c"
+    },
+    "form_id": 9,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "false",
+    "createdAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "display_id": "000000037",
+    "fields": {
+      "1": "Callie",
+      "2": "Nelson",
+      "70728": "",
+      "121215": "2025-05-26",
+      "148257": {
+        "originalname": "fake-ppc-front-2.jpg",
+        "filename": "file-1747674143769.jpg",
+        "mimetype": "image/jpeg",
+        "size": 115078,
+        "path": "uploads\\system-2\\form-9\\file-1747674143769.jpg"
+      },
+      "210809": "VIP Tour",
+      "581995": "422016774",
+      "734955": "Fort Myer",
+      "986680": "2025-05-19",
+      "userId": "67dadb88fea3d26bd2a7460e"
+    },
+    "progress": "submitted",
+    "updatedAt": {},
+    "updated_by": {
+      "$oid": "6851d29f945310aca81ab5bf"
+    },
+    "submittedAt": {},
+    "submitted_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "approved_by": {
+      "$oid": "67dadb9efea3d26bd2a74611"
+    },
+    "comment": ""
+  },
+  {
+    "_id": {
+      "$oid": "682b89881e37ffbf423025c4"
+    },
+    "system_id": 2,
+    "form_id": 9,
+    "__v": 0,
+    "approved": "",
+    "createdAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "display_id": "000000038",
+    "fields": {
+      "1": "Ian",
+      "2": "Mark",
+      "70728": "",
+      "121215": "2025-05-25",
+      "148257": {
+        "originalname": "USA-Passport.webp",
+        "filename": "935c29f774138b27a0dadedf1915d692-file-1749750353931.webp.enc",
+        "mimetype": "image/webp",
+        "size": 79392,
+        "path": "uploads\\system-2\\form-9\\935c29f774138b27a0dadedf1915d692-file-1749750353931.webp.enc",
+        "iv": "935c29f774138b27a0dadedf1915d692"
+      },
+      "210809": "VIP Tour",
+      "581995": "A8402834",
+      "734955": "Fort Myer",
+      "986680": "2025-05-19",
+      "userId": "67dadb88fea3d26bd2a7460e"
+    },
+    "group_id": 1747683720199,
+    "progress": "in_progress",
+    "updatedAt": {},
+    "updated_by": {
+      "$oid": "6851d29f945310aca81ab5be"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "682b89886c5342e40f686ec7"
+    },
+    "system_id": 2,
+    "form_id": 9,
+    "__v": 0,
+    "approved": "",
+    "createdAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "display_id": "000000038",
+    "fields": {
+      "1": "Emmi",
+      "2": "Beth",
+      "121215": "2025-05-25",
+      "210809": "VIP Tour",
+      "581995": "L9393929",
+      "734955": "Fort Myer",
+      "986680": "2025-05-19"
+    },
+    "group_id": 1747683720199,
+    "progress": "in_progress",
+    "updatedAt": {},
+    "updated_by": {
+      "$oid": "67dadb9efea3d26bd2a74611"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684c83c0260cda8240500bb7"
+    },
+    "form_id": 11,
+    "system_id": 5,
+    "__v": 0,
+    "approved": "false",
+    "createdAt": {},
+    "created_by": {
+      "$oid": "684c488600e59c5195b4c7f5"
+    },
+    "display_id": "000000008",
+    "fields": {
+      "0": "",
+      "13753": "2025-06-18",
+      "31662": "15000",
+      "76181": {
+        "id": {
+          "$oid": "684c489b00e59c5195b4c7f6"
+        },
+        "name": "Greg Cook",
+        "email": "synerengit@syneren.com"
+      },
+      "90131": "Second demo version ready",
+      "97633": "",
+      "109531": "2025-07-11",
+      "123573": "",
+      "126815": "",
+      "140828": "Demo version ready for customer",
+      "149624": "",
+      "155304": "",
+      "164887": "",
+      "171748": "Initial design proposal",
+      "198927": "Must provide a secure line of communication between two users",
+      "199190": "Android Studio, VSCode",
+      "235272": "",
+      "239829": "",
+      "252553": "2025-05-09",
+      "253195": "",
+      "254721": "",
+      "271388": "",
+      "279058": "",
+      "281533": "2025-06-02",
+      "302214": "",
+      "322930": "00002",
+      "344952": "",
+      "346883": "00001",
+      "364270": "",
+      "377129": "",
+      "391247": "",
+      "440917": "Initial design proposal",
+      "457618": "",
+      "477371": "",
+      "510165": "2025-05-23",
+      "545450": "In Progress",
+      "550286": "",
+      "556756": "",
+      "557228": "",
+      "560451": "2025-09-26",
+      "597962": "",
+      "604531": "2025-05-09",
+      "624958": "",
+      "657136": "",
+      "676690": "Mississippi",
+      "720144": "First build complete - ready for testing",
+      "742996": "",
+      "760268": "",
+      "778866": "App Development",
+      "804122": "",
+      "826872": "",
+      "832248": "",
+      "867118": "2025-08-08",
+      "871904": "",
+      "875492": "",
+      "878028": "Needs to function in both landscape and portrait orientations",
+      "885639": "",
+      "908070": "",
+      "913623": "8000",
+      "919027": null,
+      "958285": "2025-09-26",
+      "985249": "Final product ready for deployment",
+      "985672": "",
+      "userId": "684c488600e59c5195b4c7f5"
+    },
+    "progress": "submitted",
+    "updatedAt": {},
+    "updated_by": {
+      "$oid": "6851d29f945310aca81ab5ca"
+    },
+    "submittedAt": {},
+    "submitted_by": {
+      "$oid": "684c488600e59c5195b4c7f5"
+    },
+    "approved_by": {
+      "$oid": "684c489b00e59c5195b4c7f6"
+    },
+    "comment": "Project currently in progress, moving at a good pace"
+  },
+  {
+    "_id": {
+      "$oid": "684c857cb7f41d399efdaa88"
+    },
+    "form_id": 11,
+    "system_id": 5,
+    "__v": 0,
+    "approved": "false",
+    "createdAt": {},
+    "created_by": {
+      "$oid": "684c488600e59c5195b4c7f5"
+    },
+    "display_id": "000000009",
+    "fields": {
+      "0": "",
+      "13753": "2025-11-03",
+      "31662": "15000000",
+      "76181": {
+        "id": {
+          "$oid": "684c489b00e59c5195b4c7f6"
+        },
+        "name": "Greg Cook",
+        "email": "synerengit@syneren.com"
+      },
+      "90131": "Final design complete, ready for mass production",
+      "97633": "",
+      "109531": "2025-12-08",
+      "123573": "",
+      "126815": "",
+      "140828": "Demo for general audience",
+      "149624": "Must be portable and have a power source within the unit (i.e. battery)",
+      "155304": "",
+      "164887": "",
+      "171748": "",
+      "198927": "Device should be no more than 3 cubic inches in volume",
+      "199190": "",
+      "235272": "",
+      "239829": "",
+      "252553": "2025-07-18",
+      "253195": "",
+      "254721": "",
+      "271388": "",
+      "279058": "",
+      "281533": "",
+      "302214": "",
+      "322930": "0002",
+      "344952": "",
+      "346883": "0001",
+      "364270": "",
+      "377129": "",
+      "391247": "",
+      "440917": "Initial design proposal",
+      "457618": "",
+      "477371": "",
+      "510165": "2025-08-04",
+      "545450": "Not Started",
+      "550286": "",
+      "556756": "0003",
+      "557228": "",
+      "560451": "2026-06-17",
+      "597962": "",
+      "604531": "",
+      "624958": "",
+      "657136": "",
+      "676690": "Anchorage",
+      "720144": "First design complete, begin testing",
+      "742996": "",
+      "760268": "",
+      "778866": "PCB Design",
+      "804122": "",
+      "826872": "",
+      "832248": "",
+      "867118": "2026-04-16",
+      "871904": "",
+      "875492": "",
+      "878028": "Takes in analog input signals and outputs a filtered, amplified version of the same signals",
+      "885639": "",
+      "908070": "",
+      "913623": "0",
+      "919027": null,
+      "958285": "2026-06-17",
+      "985249": "Ready for sale to customers",
+      "985672": "",
+      "userId": "684c488600e59c5195b4c7f5"
+    },
+    "progress": "submitted",
+    "updatedAt": {},
+    "updated_by": {
+      "$oid": "6851d29f945310aca81ab5ca"
+    },
+    "submittedAt": {},
+    "submitted_by": {
+      "$oid": "684c488600e59c5195b4c7f5"
+    },
+    "approved_by": {
+      "$oid": "684c489b00e59c5195b4c7f6"
+    },
+    "comment": "This project has not started yet, so no milestones have been achieved."
+  },
+  {
+    "_id": {
+      "$oid": "685087995ad4d87925b4ce98"
+    },
+    "form_id": 9,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "",
+    "createdAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "display_id": "000000039",
+    "fields": {
+      "1": "John",
+      "2": "Myer",
+      "70728": "",
+      "121215": "2025-06-26",
+      "148257": null,
+      "210809": "Tour",
+      "581995": "f4594444",
+      "734955": "Fort Belvoir",
+      "986680": "2025-06-18",
+      "userId": "6851d29f945310aca81ab5be"
+    },
+    "progress": "submitted",
+    "updatedAt": {},
+    "updated_by": {
+      "$oid": "6851d29f945310aca81ab5bf"
+    },
+    "submittedAt": {},
+    "submitted_by": {
+      "$oid": "6851d29f945310aca81ab5be"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6851be099c7628f41256fdb6"
+    },
+    "form_id": 9,
+    "system_id": 2,
+    "__v": 0,
+    "approved": "",
+    "createdAt": {},
+    "created_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "display_id": "000000040",
+    "fields": {},
+    "progress": "not_started",
+    "updatedAt": {},
+    "updated_by": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "68532acca8442b6be806df56"
+    },
+    "form_id": 11,
+    "system_id": 5,
+    "__v": 0,
+    "approved": "false",
+    "createdAt": {},
+    "created_by": {
+      "$oid": "6851d29f945310aca81ab5c7"
+    },
+    "display_id": "000000010",
+    "fields": {
+      "0": "",
+      "13753": "",
+      "31662": "10000.00",
+      "76181": {
+        "id": {
+          "$oid": "684c489b00e59c5195b4c7f6"
+        },
+        "name": "Greg Cook",
+        "email": "synerengit@syneren.com"
+      },
+      "90131": "",
+      "109531": "",
+      "123573": "",
+      "140828": "",
+      "149624": "",
+      "155304": "",
+      "164887": "",
+      "198927": "",
+      "199190": "",
+      "239829": "",
+      "252553": "2025-06-22",
+      "254721": "",
+      "279058": "",
+      "281533": "",
+      "322930": "",
+      "346883": "",
+      "364270": "",
+      "377129": "",
+      "440917": "Update the ATO Documents",
+      "457618": "",
+      "477371": "",
+      "510165": "2025-06-25",
+      "545450": "Not Started",
+      "556756": "",
+      "557228": "",
+      "560451": "",
+      "604531": "",
+      "676690": "ZAIN",
+      "720144": "",
+      "742996": "",
+      "760268": "",
+      "778866": "App Development",
+      "804122": "",
+      "826872": "",
+      "832248": "",
+      "867118": "",
+      "878028": "",
+      "885639": "",
+      "908070": "",
+      "913623": "",
+      "919027": null,
+      "958285": "2025-06-30",
+      "985249": "",
+      "userId": "6851d29f945310aca81ab5c7"
+    },
+    "progress": "submitted",
+    "updatedAt": {},
+    "updated_by": {
+      "$oid": "6851d29f945310aca81ab5ca"
+    },
+    "submittedAt": {},
+    "submitted_by": {
+      "$oid": "6851d29f945310aca81ab5c7"
+    },
+    "approved_by": {
+      "$oid": "6851d29f945310aca81ab5c8"
+    },
+    "comment": "2025-06-23 15:19:24 - Greg Cook (sgupta@syneren.com): Well done."
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "_id": {
+      "$oid": "68000d4242b1e8c4c91d71ae"
+    },
+    "label": "Visit Start Date",
+    "field_id": 986680,
+    "minDate": {},
+    "maxDate": {},
+    "timestamp": {},
+    "__v": 2,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "required": true
+  },
+  {
+    "_id": {
+      "$oid": "680028efe9301ca97c242437"
+    },
+    "label": "Visit End Date",
+    "field_id": 121215,
+    "timestamp": {},
+    "__v": 2,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "required": true
+  },
+  {
+    "_id": {
+      "$oid": "6807f9424556949c48e9852d"
+    },
+    "label": "Sign Date (Security Manager)",
+    "field_id": 709326,
+    "required": true,
+    "notEditableBy": [
+      "APP_USER"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6807f98b4556949c48e98568"
+    },
+    "label": "Sign Date (approver)",
+    "field_id": 124579,
+    "required": true,
+    "notEditableBy": [
+      "APP_USER"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6807fe854556949c48e987d5"
+    },
+    "label": "Sign Date (DTSA Functional Manager)",
+    "field_id": 78608,
+    "required": true,
+    "notEditableBy": [
+      "APP_USER"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6807fece4556949c48e987f5"
+    },
+    "label": "Sign Date (DTSA Representative)",
+    "field_id": 660828,
+    "required": true,
+    "notEditableBy": [
+      "APP_USER"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684893f96e319643aee71947"
+    },
+    "label": "Planned Start Date",
+    "field_id": 252553,
+    "required": true,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684898e46e319643aee71ce5"
+    },
+    "label": "Planned End Date",
+    "field_id": 958285,
+    "required": true,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684898ee6e319643aee71cf6"
+    },
+    "label": "Actual Start Date",
+    "field_id": 604531,
+    "required": false,
+    "notEditableBy": [],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684898f46e319643aee71d05"
+    },
+    "label": "Actual End Date",
+    "field_id": 364270,
+    "required": false,
+    "notEditableBy": [],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684980076e319643aee71e96"
+    },
+    "label": "Planned Milestone 1 Date",
+    "field_id": 510165,
+    "required": true,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6849818a6e319643aee72460"
+    },
+    "label": "Actual Milestone 1 Date",
+    "field_id": 281533,
+    "required": false,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684ae30e6e319643aee785c5"
+    },
+    "label": "Planned Milestone 2 Date",
+    "field_id": 13753,
+    "required": false,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "684ae33d6e319643aee785f1"
+    },
+    "label": "Planned Milestone 3 Date",
+    "field_id": 109531,
+    "required": false,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684ae3d66e319643aee78611"
+    },
+    "label": "Planned Milestone 4 Date",
+    "field_id": 867118,
+    "required": false,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684ae43a6e319643aee78631"
+    },
+    "label": "Planned Milestone 5 Date",
+    "field_id": 560451,
+    "required": false,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684ae49b6e319643aee7868a"
+    },
+    "label": "Actual Milestone 2 Date",
+    "field_id": 742996,
+    "required": false,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684ae4c36e319643aee786aa"
+    },
+    "label": "Actual Milestone 3 Date",
+    "field_id": 826872,
+    "required": false,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684ae5196e319643aee786e3"
+    },
+    "label": "Actual Milestone 4 Date",
+    "field_id": 279058,
+    "required": false,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684ae53f6e319643aee78703"
+    },
+    "label": "Actual Milestone 5 Date",
+    "field_id": 155304,
+    "required": false,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 1
+  }
+]

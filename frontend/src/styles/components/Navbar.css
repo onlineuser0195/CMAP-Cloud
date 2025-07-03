@@ -1,0 +1,147 @@
+.navbar {
+    background-color: #363333;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding-left: 1rem;
+    padding-right: 0rem;
+    list-style: none;
+    text-decoration: none;
+    justify-content: space-between;
+    /* position: relative; */
+    height: 65px!important; 
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1002;
+}
+
+.navbar__left,
+.navbar__right {
+    display: flex;
+    align-items: center;
+}
+
+.navbar__center {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    white-space: nowrap;
+    font-size: 0.9rem !important;
+    pointer-events: none; /* Optional: makes center not steal clicks */
+}
+
+.cmap{
+    color: white;
+    text-decoration: none !important;
+    font-size: 0.9rem!important;
+}
+
+.navbar__list {
+    font-size: 0.9rem!important;
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    margin-left: auto; /* This pushes the list to the right */
+}
+
+.navbar__item {
+    padding: 0.1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 10px;
+    font-size: 0.8rem;
+}
+
+.navbar__link {
+    color: inherit;
+    text-decoration: none;
+    transition: opacity 0.2s ease; /* Smooth hover effect */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: none;
+    border: none;
+    cursor: pointer;
+    white-space: nowrap; 
+}
+
+.navbar__link:hover {
+    opacity: 0.8;
+    text-decoration: none;
+    color: rgb(28, 246, 39);
+}
+
+.logout:hover{
+    color: red;
+}
+
+.users:hover{
+    color: rgb(19, 184, 230)
+}
+
+.profile{
+    color:rgb(251, 255, 0)
+}
+
+.profile:hover{
+    color:rgb(255, 251, 0)
+}
+
+.alerts:hover {
+    color: rgb(247, 70, 70);
+}
+
+.faq:hover{
+    color:rgb(19, 184, 230)
+}
+
+.role-badge {
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    text-transform: capitalize;
+    margin-left: 0px;
+    display: inline-block;
+}
+
+  /* Customize colors by role */
+  .role-badge.VIEWER {
+    background-color: #ea4f4f;
+    color: white;
+  }
+  
+  .role-badge.APP_USER, .role-badge.role-badge.IT_USER, .role-badge.PROJECT_MANAGER {
+    background-color: #1976d2;
+    color: white;
+  }
+  
+  .role-badge.SUPERVISOR, .role-badge.SPAN_SUPPORT_USER, .role-badge.GOVERNMENT_LEAD {
+    background-color: #388e3c;
+    color: white;
+  }
+    
+  .role-badge.CONFIRMATION_USER, .role-badge.INDUSTRY_APPLICANT, .role-badge.PORTFOLIO_OWNER {
+    background-color: rgb(216, 180, 3);
+    color: white;
+  }
+
+  .role-badge.GLOBAL_ADMIN {
+    background-color: rgb(6, 127, 143);
+    color: white;
+  }
+
+  .role-badge.LOCAL_ADMIN{
+    background-color: rgb(6, 127, 143);
+    color: white;
+  }
+  
+  .role-badge.SYSTEM {
+    background-color: rgb(216, 180, 3);
+    color: white;
+  }

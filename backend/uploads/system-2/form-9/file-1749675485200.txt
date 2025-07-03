@@ -1,0 +1,24 @@
+Azure URL:
+http://cmap.eastus.cloudapp.azure.com/
+
+Embassy User:
+
+emily@syneren.com
+
+Approver:
+
+aprille@syneren.com
+
+Confirmation User:
+
+cooper@syneren.com
+
+Admin:
+adward@syneren.com
+
+Configuration Specialist:
+conner@syneren.com
+
+Password (Same for all roles):
+
+Hello1234!@#$

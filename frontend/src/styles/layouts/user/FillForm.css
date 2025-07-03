@@ -1,0 +1,105 @@
+/* FormCanvas.css */
+.form-canvas {
+    padding: 2rem 0;
+  }
+
+  .form-component {
+    background: #fff;
+    border-radius: 8px;
+    padding-left: 1rem!important;
+    padding-right: 1rem!important;
+    padding-top: 0.5rem!important;
+    padding-bottom: 0.5rem!important;
+    margin: 0rem;
+    /* margin-bottom: 1rem; */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    height: 100%;
+  }
+  
+  .form-label {
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+    color: blue;
+  }
+  
+/* Chrome, Safari, Edge, Opera */
+input[type="date"]::-webkit-calendar-picker-indicator {
+  opacity: 0;
+}
+
+/* Firefox */
+input[type="date"] {
+  appearance: none;
+  -moz-appearance: textfield;
+}
+
+/* .fill-form{
+  background-color: white;
+} */
+
+
+  .required-star {
+    color: #dc3545;
+    margin-left: 3px;
+  }
+  
+  .checkbox-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  
+  .form-check-input {
+    margin-top: 0.2rem;
+  }
+  .form-component :disabled {
+    background-color: #f8f9fa;
+    cursor: not-allowed;
+    opacity: 0.7;
+  }
+  
+  .form-component :disabled.checkbox-group {
+    opacity: 0.5;
+    pointer-events: none;
+  }
+
+  .section-break {
+    position: relative;
+    margin: 2rem 0;
+  }
+  
+  .section-line {
+    border-top: 2px dashed #ddd;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    z-index: 0;
+  }
+  
+  .section-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+  
+  .section-title {
+    background: rgb(226, 238, 248)!important;
+    padding: 0 1rem;
+    z-index: 1;
+    border: 1px solid rgb(207, 207, 245)!important;
+    border-radius: 50%!important;
+    margin-top: 5px;
+  }
+  
+  .full-width-instruction{
+    grid-column: 1 / -1 !important;
+    width: 100%;
+    margin-top: 1px!important;
+    margin-bottom: 0px!important;
+  }
+
+  .full-width-instruction label {
+    color: green!important;
+  }

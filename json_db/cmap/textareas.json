@@ -1,0 +1,223 @@
+[
+  {
+    "_id": {
+      "$oid": "6800175b7c36add69d6a2fa4"
+    },
+    "label": "Supervisor Comment",
+    "field_id": 734924,
+    "rows": 4,
+    "timestamp": {},
+    "__v": 0,
+    "notEditableBy": null
+  },
+  {
+    "_id": {
+      "$oid": "6807f5d64556949c48e98335"
+    },
+    "label": "Office Mailing Address",
+    "field_id": 357024,
+    "rows": 4,
+    "placeholder": "",
+    "required": false,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "6807f69c4556949c48e983df"
+    },
+    "label": "Site Location",
+    "field_id": 965053,
+    "rows": 4,
+    "placeholder": "Facility Location",
+    "required": true,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68497ea16e319643aee71e20"
+    },
+    "label": "Resources",
+    "field_id": 199190,
+    "rows": 4,
+    "placeholder": "Resource",
+    "required": false,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "68497f7c6e319643aee71e5b"
+    },
+    "label": "Requirement 1 Description",
+    "field_id": 878028,
+    "rows": 4,
+    "placeholder": "Description",
+    "required": false,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6849801f6e319643aee71f23"
+    },
+    "label": "Milestone 1 Description",
+    "field_id": 440917,
+    "rows": 4,
+    "placeholder": "Description",
+    "required": true,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6849822b6e319643aee72556"
+    },
+    "label": "Comments by Government",
+    "field_id": 441644,
+    "rows": 4,
+    "placeholder": "Comment",
+    "required": false,
+    "notEditableBy": [
+      "APP_USER"
+    ],
+    "timestamp": {},
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "684ae1e16e319643aee78456"
+    },
+    "label": "Requirement 2 Description",
+    "field_id": 198927,
+    "rows": 4,
+    "placeholder": "Description",
+    "required": false,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684ae20a6e319643aee78477"
+    },
+    "label": "Requirement 3 Description",
+    "field_id": 149624,
+    "rows": 4,
+    "placeholder": "Description",
+    "required": false,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 1
+  },
+  {
+    "_id": {
+      "$oid": "684ae2316e319643aee78495"
+    },
+    "label": "Requirement 4 Description",
+    "field_id": 239829,
+    "rows": 4,
+    "placeholder": "Description",
+    "required": false,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684ae29a6e319643aee784c5"
+    },
+    "label": "Requirement 5 Description",
+    "field_id": 123573,
+    "rows": 4,
+    "placeholder": "Description",
+    "required": false,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684ae32d6e319643aee785e2"
+    },
+    "label": "Milestone 2 Description",
+    "field_id": 720144,
+    "rows": 4,
+    "placeholder": "Description",
+    "required": false,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684ae3546e319643aee78601"
+    },
+    "label": "Milestone 3 Description",
+    "field_id": 140828,
+    "rows": 4,
+    "placeholder": "Description",
+    "required": false,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684ae3ec6e319643aee78621"
+    },
+    "label": "Milestone 4 Description",
+    "field_id": 90131,
+    "rows": 4,
+    "placeholder": "Description",
+    "required": false,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684ae4516e319643aee78641"
+    },
+    "label": "Milestone 5 Description",
+    "field_id": 985249,
+    "rows": 4,
+    "placeholder": "Description",
+    "required": false,
+    "notEditableBy": [
+      "SUPERVISOR"
+    ],
+    "timestamp": {},
+    "__v": 0
+  }
+]

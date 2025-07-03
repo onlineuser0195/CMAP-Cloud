@@ -1,0 +1,117 @@
+.edit-profile {
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  }
+   
+  .profile-container {
+    width: 100%;
+    max-width: 500px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+   
+  .system-card {
+    transition: transform 0.2s, box-shadow 0.2s;
+    border: 1px solid #dee2e6;
+    border-radius: 0.5rem;
+  }
+   
+  .system-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  }
+   
+  .card-title {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: #2c3e50;
+  }
+   
+  .card-text {
+    color: #666;
+    min-height: 80px;
+    /* Adjust based on your content */
+  }
+   
+  .profile-field-value {
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+    min-height: 38px;
+    display: flex;
+    align-items: center;
+    width: 325px;
+  }
+   
+  .profile-field-value:hover {
+    background-color: #c5c4c4;
+    cursor: not-allowed;
+  }
+   
+  .edit-profile-form {
+    display: flex;
+    flex-direction: column; /* Stack each field vertically */
+    align-items: center; /* Horizontally center fields */
+  }
+   
+  .edit-profile-form-group {
+    display: flex; /* Use flexbox for horizontal layout */
+    align-items: center; /* Vertically align the label and input */
+    margin-bottom: 15px; /* Add space between fields */
+    width: 100%;
+  }
+   
+  .edit-profile-form-group label {
+    margin-right: 10px; /* Add some space between label and input */
+    font-weight: bold; /* Optional: make labels bold */
+    width: 100px;
+    text-align: right; /* Align label text to the right */
+  }
+   
+  .edit-profile-form-group input, select {
+    padding: 8px;
+    width: 325px;
+    border: 1px solid #ccc;
+    background-color: #f0f0f0;
+    color: black;
+    border-radius: 4px;
+  }
+   
+  .profile-actions {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+  }
+   
+  .profile-edit-button,
+  .profile-save-button,
+  .profile-cancel-button {
+    margin-bottom: 10px;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+   
+  .profile-edit-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+  }
+   
+  .profile-save-button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+  }
+   
+  .profile-cancel-button {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+  }

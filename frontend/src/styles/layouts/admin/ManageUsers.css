@@ -1,0 +1,56 @@
+.manage-users {
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Horizontally center the content */
+    justify-content: flex-start; /* Align content to the top */
+}
+
+.manage-users-container {
+    width: 65%;
+    background-color: #ffffff; /* Add a white background */
+    border: 1px solid #ddd; /* Add a border */
+    border-radius: 8px; /* Add rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+}
+
+.users-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.users-table th, .users-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+.users-table th {
+    background-color: #f4f4f4;
+}
+
+.action-button {
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.edit-button {
+    background-color: rgb(45, 45, 252);
+}
+
+.edit-button:hover {
+    background-color: blue;
+}
+
+.delete-button{
+    background-color: #ff4d4d;
+}
+
+.delete-button:hover {
+    background-color: #ff1a1a;
+}

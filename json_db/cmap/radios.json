@@ -1,0 +1,16 @@
+[
+  {
+    "_id": {
+      "$oid": "68000d1e42b1e8c4c91d71a1"
+    },
+    "label": "Activate",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "field_id": 484845,
+    "timestamp": {},
+    "__v": 0,
+    "notEditableBy": null
+  }
+]

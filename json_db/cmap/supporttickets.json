@@ -1,0 +1,54 @@
+[
+  {
+    "_id": {
+      "$oid": "684b41997ace04485b49f3b1"
+    },
+    "ticket_type": "Bug",
+    "description": "Ticket Creation Test",
+    "user": {
+      "$oid": "67e42aba0c18282d527eb862"
+    },
+    "email": "sgupta@syneren.com",
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684b4aaf7ace04485b49f456"
+    },
+    "ticket_type": "Feature",
+    "description": "Please add other fields.",
+    "user": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "email": "sgupta@syneren.com",
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684b4b357ace04485b49f467"
+    },
+    "ticket_type": "Question",
+    "description": "What all tickets type you can add?",
+    "user": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "email": "sgupta@syneren.com",
+    "createdAt": {},
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "684c796ee225ba5c159c246e"
+    },
+    "ticket_type": "Bug",
+    "description": "Hey I got while a bug while accessing request.",
+    "user": {
+      "$oid": "67dadb88fea3d26bd2a7460e"
+    },
+    "email": "sgupta@syneren.com",
+    "createdAt": {},
+    "__v": 0
+  }
+]

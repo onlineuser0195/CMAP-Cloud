@@ -1,0 +1,212 @@
+[
+  {
+    "_id": {
+      "$oid": "67d9c52e912535c3d9f8efd7"
+    },
+    "system_id": 1,
+    "name": "DPARS",
+    "description": "DoD Patent Application Retrieval System (DPARS) functions as a document storage/retrieval tool system. It allows the DTSA users to store patent applications and other documents in a Portable Document System.",
+    "timestamp": "2025-03-18T12:00:00Z",
+    "form_ids": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "status": "inactive",
+    "roles": [
+      {
+        "displayName": "App User",
+        "mappedRole": "APP_USER"
+      },
+      {
+        "displayName": "Supervisor",
+        "mappedRole": "SUPERVISOR"
+      },
+      {
+        "displayName": "Viewer",
+        "mappedRole": "VIEWER"
+      },
+      {
+        "displayName": "Admin",
+        "mappedRole": "LOCAL_ADMIN"
+      }
+    ],
+    "full_name": "DoD Patent Application Retrieval System"
+  },
+  {
+    "_id": {
+      "$oid": "67d9c52e912535c3d9f8efd8"
+    },
+    "system_id": 2,
+    "name": "FVS",
+    "description": "Foreign Visits System (FVS) is used by the Office of the Deputy USD (P), Security Policy Automation Directorate to enhance security and provide consistent application of policy in dealing with other governments",
+    "timestamp": "2025-03-18T12:10:00Z",
+    "form_ids": [
+      5,
+      9,
+      7,
+      10,
+      1
+    ],
+    "status": "active",
+    "roles": [
+      {
+        "displayName": "Embassy User",
+        "mappedRole": "APP_USER",
+        "_id": {
+          "$oid": "6849ae13703ea3fad74098c7"
+        }
+      },
+      {
+        "displayName": "Approver",
+        "mappedRole": "SUPERVISOR",
+        "_id": {
+          "$oid": "6849ae13703ea3fad74098c8"
+        }
+      },
+      {
+        "displayName": "Confirmation User",
+        "mappedRole": "CONFIRMATION_USER",
+        "_id": {
+          "$oid": "6849ae13703ea3fad74098c9"
+        }
+      },
+      {
+        "displayName": "Admin",
+        "mappedRole": "VIEWER",
+        "_id": {
+          "$oid": "6849ae13703ea3fad74098ca"
+        }
+      },
+      {
+        "displayName": "Configuration Specialist",
+        "mappedRole": "LOCAL_ADMIN",
+        "_id": {
+          "$oid": "6849ae13703ea3fad74098cb"
+        }
+      }
+    ],
+    "full_name": "Foreign Visits System"
+  },
+  {
+    "_id": {
+      "$oid": "67d9c52e912535c3d9f8efd9"
+    },
+    "system_id": 3,
+    "name": "USXPORTS",
+    "description": "U.S. Exports System (USXPorts) is an expert in International Transportation with 75 years of experience in International Trade and Logistics.",
+    "timestamp": "2025-03-18T12:20:00Z",
+    "form_ids": [
+      8
+    ],
+    "status": "inactive",
+    "roles": [
+      {
+        "displayName": "App User",
+        "mappedRole": "APP_USER"
+      },
+      {
+        "displayName": "Supervisor",
+        "mappedRole": "SUPERVISOR"
+      },
+      {
+        "displayName": "Viewer",
+        "mappedRole": "VIEWER"
+      },
+      {
+        "displayName": "Admin",
+        "mappedRole": "LOCAL_ADMIN"
+      }
+    ],
+    "full_name": "U.S. Exports System"
+  },
+  {
+    "_id": {
+      "$oid": "684b3cfd91c53d54bc73cb13"
+    },
+    "system_id": 4,
+    "name": "ELISA",
+    "description": "ELISA is a Case Tracking System that allow the user to submit cases and the viewer to get the case status.",
+    "form_ids": [],
+    "status": "active",
+    "roles": [
+      {
+        "displayName": "IT User",
+        "mappedRole": "IT_USER",
+        "_id": {
+          "$oid": "684b616391c53d54bc73d2b1"
+        }
+      },
+      {
+        "displayName": "SPAN Support User",
+        "mappedRole": "SPAN_SUPPORT_USER",
+        "_id": {
+          "$oid": "685572b6a314a52414f3c15a"
+        }
+      },
+      {
+        "displayName": "Industry Applicant",
+        "mappedRole": "INDUSTRY_APPLICANT",
+        "_id": {
+          "$oid": "685572b6a314a52414f3c15b"
+        }
+      },
+      {
+        "displayName": "Local Admin",
+        "mappedRole": "LOCAL_ADMIN",
+        "_id": {
+          "$oid": "685572b6a314a52414f3c15c"
+        }
+      }
+    ],
+    "timestamp": {},
+    "__v": 0,
+    "full_name": "Export Licensing Information System Advisor"
+  },
+  {
+    "_id": {
+      "$oid": "684c4064d6030abc7cc190b5"
+    },
+    "system_id": 5,
+    "name": "PRISM",
+    "description": "Performance Review and Improvement Strategy Model (PRISM) is a Project Management Tool to manage individuals' performance, record milestone achievements, and provide improvement strategies.",
+    "form_ids": [
+      11
+    ],
+    "status": "active",
+    "roles": [
+      {
+        "displayName": "Project Manager",
+        "mappedRole": "PROJECT_MANAGER",
+        "_id": {
+          "$oid": "684c4064d6030abc7cc190b6"
+        }
+      },
+      {
+        "displayName": "Government Lead",
+        "mappedRole": "GOVERNMENT_LEAD",
+        "_id": {
+          "$oid": "684c4064d6030abc7cc190b7"
+        }
+      },
+      {
+        "displayName": "Portfolio Owner",
+        "mappedRole": "PORTFOLIO_OWNER",
+        "_id": {
+          "$oid": "684c4064d6030abc7cc190b8"
+        }
+      },
+      {
+        "displayName": "Admin",
+        "mappedRole": "LOCAL_ADMIN",
+        "_id": {
+          "$oid": "684c4064d6030abc7cc190b9"
+        }
+      }
+    ],
+    "timestamp": {},
+    "__v": 0,
+    "full_name": "Performance Review and Improvement Strategy Model"
+  }
+]

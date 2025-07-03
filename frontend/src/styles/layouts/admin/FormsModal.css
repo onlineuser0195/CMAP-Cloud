@@ -1,0 +1,15 @@
+/* AddFormsModal.css */
+.form-list {
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    padding: 1rem;
+  }
+  
+  .form-check {
+    padding: 0.5rem;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .form-check-label {
+    margin-left: 0.5rem;
+  }
